@@ -1,0 +1,10 @@
+site_name: Python Software Foundation Policies
+preview: !ENV [PREVIEW, 'False']
+theme:
+  name: material
+  custom_dir: ./overrides
+plugins:
+  - git-revision-date-localized:
+      type: date
+      enable_creation_date: false
+      fallback_to_build_date: true

@@ -1,0 +1,17 @@
+version: '3.9'
+
+services:
+  docs:
+    build:
+      context: .
+    pull_policy: never
+    command: mkdocs serve -a 0.0.0.0:8000 -f mkdocs.yml
+    volumes:
+      - ./.git:/opt/venv/src/.git:z
+      - ./mkdocs.yml:/opt/venv/src/mkdocs.yml:z
+      - ./docs:/opt/venv/src/docs:z
+      - ./overrides:/opt/venv/src/overrides:z
+    environment:
+        - PREVIEW=True
+    ports:
+      - "10000:8000"
