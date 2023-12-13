@@ -1,8 +1,4 @@
----
-source: https://us.pycon.org/2023/about/code-of-conduct/
----
-
-# Code of Conduct
+# PyCon US Code of Conduct
 
 PyCon US is a community conference intended for networking and collaboration in the developer community.
 
@@ -57,7 +53,7 @@ No weapons are allowed at PyCon or Python Software Foundation events. Weapons in
 
 ### CONSEQUENCES
 
-If a participant engages in behavior that violates this code of conduct, the Python community Code of Conduct team may take any action they deem appropriate, including warning the offender or expulsion from the community and community events with no refund of event tickets. The full list of consequences for inappropriate behavior is listed in the [Enforcement Procedures](https://us.pycon.org/2023/about/code-of-conduct/staff-procedure/).
+If a participant engages in behavior that violates this code of conduct, the Python community Code of Conduct team may take any action they deem appropriate, including warning the offender or expulsion from the community and community events with no refund of event tickets. The full list of consequences for inappropriate behavior is listed in the [Enforcement Procedures](Enforcement-Procedures).
 
 Thank you for helping make this a welcoming, friendly community for everyone.
 
@@ -105,8 +101,7 @@ Event organizers will enforce this code throughout the event.
 
 This Code of Conduct applies to the following online spaces:
 
--   All [PyCon mailing lists hosted on](https://mail.python.org/mailman/listinfo)  [python.org](http://python.org/)
--   The [PyCon registration and room sharing site](https://us.pycon.org/2022/)
+-   The [PyCon site](https://us.pycon.org/)
 -   Any other online space administered by PyCon or the Python Software Foundation
 
 This Code of Conduct applies to the following people in official PyCon or Python Software Foundation online spaces:
@@ -121,10 +116,13 @@ The PyCon Code of Conduct work group will receive and evaluate incident reports 
 
 ## CONTACT INFORMATION
 
-If you believe that someone is violating the code of conduct, or have any other concerns, please contact a member of the event staff immediately. They can be reached by emailing <pycon-us-report@python.org>.
+If you believe that someone is violating the code of conduct, or have any other concerns, please contact a member of the event staff immediately. They can be reached by emailing <pycon-us-report@python.org> which is monitored by Deb Nicholson, Łukasz Langa, Olivia Sauls and Ee Durbin.
 
 In case of a conflict of interest, you can individually contact:
 
+- Ee Durbin
+    - Director of Infrastructure
+    - <ee@python.org>
 - Olivia Sauls
     - Program Director
     - <olivia@python.org>
@@ -133,9 +131,9 @@ Conference staff will be happy to help participants contact hotel/venue security
 
 ## PROCEDURE FOR HANDLING INCIDENTS
 
-[Procedure For Reporting Code of Conduct Incidents](https://us.pycon.org/2023/about/code-of-conduct/attendee-reporting/)
+[Procedure For Reporting Code of Conduct Incidents](Procedures-for-Reporting-Incidents)
 
-[Enforcement Procedures](https://us.pycon.org/2023/about/code-of-conduct/staff-procedure/)
+[Enforcement Procedures](Enforcement-Procedures)
 
 ## LICENSE
 
