@@ -1,7 +1,4 @@
----
-source: https://us.pycon.org/2023/about/code-of-conduct/staff-procedure/
----
-# Enforcement Procedures
+# PyCon US Code of Conduct Enforcement Procedures
 
 This document summarizes the procedures the PyCon US staff uses to enforce the Code of Conduct.
 
@@ -113,7 +110,7 @@ The follow up email should be sent no later than one week after the receipt of t
 
 Attribution
 
--   The [PyCon Code of Conduct](https://us.pycon.org/2023/about/code-of-conduct/) is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
+-   The [PyCon Code of Conduct](../) is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
 -   Ada Initiative's guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)" is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)
 -   Audrey Eschright of [Safety First PDX](http://safetyfirstpdx.org/) provided the impact vs risk assessment framework, which is licensed under a [Creative Commons Attribution Share-Alike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/)by Audrey Eschright of [Safety First PDX](http://safetyfirstpdx.org/)
 -   [Code of Conduct template](https://github.com/sagesharp/code-of-conduct-template/) was created by [Otter Tech](https://otter.technology/code-of-conduct-training) and is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)

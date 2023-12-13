@@ -1,6 +1,3 @@
----
-source: https://docs.google.com/document/d/1X_yjjB9vRbGyCxeHp3KwZbp_NYhsufg9owUI8uodcQk/edit
----
 # Privacy and Data Policy
 
 Last updated **{{git_revision_date_localized}}**
@@ -44,8 +41,6 @@ If you provide personal information to us regarding or related to a third party,
 The PSF uses some third party services to assist with producing PyCon and operating online services supporting PyCon. Specifically, we use:
 
 -   Hubilo (<https://hubilo.com/>) to provide online content management and streaming services for PyCon US. Hubilo has its own Terms of Service (<https://hubilo.com/terms-of-use>/) and Privacy Policy (<https://hubilo.com/privacy-policy/>), which apply to your use of the Hubilo service to access PyCon US online content. To the extent that Hublio's terms are more restrictive than this policy, the more restrictive terms will apply. Hubilo's use of PyCon attendee data is subject to the [Data Processing Agreement](https://uploads-ssl.webflow.com/61f2936079ce67606fdade16/63a9c7122eee221c3c616e90_Hubilo%20_%20Data%20Processing%20Addendum%20%5BDPA%5D%20-%20Updated.pdf) between Hubilo and PSF.
-
--   ShareMy.Health to verify attendees' COVID status. We share your name and email address with ShareMy.Health to enable them to contact you to verify your test results. Your disclosure of personal information to ShareMy.Health is governed by their Privacy Policy (<https://www.sharemy.health/privacy>). 
 
 -   CVent to manage attendee room assignments. We share your name, email address, affiliation, and address with CVent. CVent's use of this information is governed by the [Data Processing Addendum](https://www.cvent.com/sites/default/files/files/2022-09/CVENT%20CUSTOMER%20GDPR%20DPA%20C2P%20SCC%20%2B%20UK%20IDTA%20%28version%205.26.2022%29_0.docx) between CVent and PSF. Your disclosure of personal information to CVent is governed by their Privacy Policy (<https://www.cvent.com/en/cvent-global-privacy-policy>). 
 

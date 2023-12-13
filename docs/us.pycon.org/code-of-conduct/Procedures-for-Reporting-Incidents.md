@@ -1,12 +1,8 @@
----
-source: https://us.pycon.org/2023/about/code-of-conduct/attendee-reporting/
----
-Procedures for Reporting Incidents
-==================================
+# PyCon US Procedures for Reporting Code of Conduct Incidents
 
 If you believe someone is in physical danger, including from themselves, the most important thing is to get that person help. Please contact the appropriate crisis number, non-emergency number, or police number. If you are a PyCon attendee, you can consult with a volunteer or staff member to help find an appropriate number.
 
-If you believe someone has violated the [Code of Conduct](https://us.pycon.org/2023/about/code-of-conduct/), we encourage you to report it. If you are unsure whether the incident is a violation, or whether the space where it happened is covered by the Code of Conduct, we encourage you to still report it. We are fine with receiving reports where we decide to take no action for the sake of creating a safer space.
+If you believe someone has violated the [PyCon US Code of Conduct](..), we encourage you to report it. If you are unsure whether the incident is a violation, or whether the space where it happened is covered by the Code of Conduct, we encourage you to still report it. We are fine with receiving reports where we decide to take no action for the sake of creating a safer space.
 
 If you find that you need to make a report, and you cannot find the appropriate Code of Conduct reporting contact, you may report to the PyCon Code of Conduct email alias below. PyCon event staff will handle your report. If this happens, please also mention that you could not find specific reporting information so that we can improve.
 
@@ -14,14 +10,19 @@ If you find that you need to make a report, and you cannot find the appropriate 
 
 The best way to contact the PyCon Code of Conduct event staff is by email at <pycon-us-report@python.org>. The members of the PyCon event staff who monitor this account are:
 
+-   Deb Nicholson
+-   Łukasz Langa
 -   Olivia Sauls
 -   Ee Durbin
 
 In the event of a conflict of interest, you may directly contact any of the lead incident responders:
 
+-   Ee Durbin
+    -   Python Software Foundation - Director of Infrastructure
+    -   <ee@python.org>
 -   Olivia Sauls
     -   Python Software Foundation - Program Director
-        -   <olivia@python.org>
+    -   <olivia@python.org>
 
 REPORT DATA
 -----------
@@ -51,13 +52,13 @@ In some cases, we may determine that a public statement will need to be made. If
 REPORT HANDLING PROCEDURE
 -------------------------
 
-When you make a report to an incident responder, they will gather information about the incident according to the [Procedure For Incident Response](https://us.pycon.org/2023/about/code-of-conduct/staff-procedure/).
+When you make a report to an incident responder, they will gather information about the incident according to the [Procedure For Incident Response](../Enforcement-Procedures).
 
 After an incident responder takes the report, they will immediately consult with the PyCon event staff, unless there is a conflict of interest, in which case any non-interested parties will be contacted.
 
 If the incident is ongoing and needs to be immediately addressed, any lead incident responder may take appropriate action to ensure the safety of everyone involved. If the situation requires it, this may take the form of a referral to an appropriate non-PyCon agency, including the local police. PyCon is not equipped to handle emergency situations.
 
-If the incident is less urgent, the report will be discussed by the event staff, who will meet to determine an appropriate response. Examples of possible incident responses are outlined in the [Procedure For Incident Response](https://us.pycon.org/2023/about/code-of-conduct/staff-procedure/).
+If the incident is less urgent, the report will be discussed by the event staff, who will meet to determine an appropriate response. Examples of possible incident responses are outlined in the [Procedure For Incident Response](../Enforcement-Procedures).
 
 Before any large in-person gathering conference, staff will have a mandatory meeting where incident response procedures will be outlined. After the conference, all incident responders will attend a debriefing session with the lead responders to discuss all incidents and determine any necessary follow-up actions.
 
