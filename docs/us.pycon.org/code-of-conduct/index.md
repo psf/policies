@@ -4,7 +4,7 @@ PyCon US is a community conference intended for networking and collaboration in 
 
 We value the participation of each member of the Python community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the conference and at all conference events.
 
-To make clear what is expected, all staff, attendees, speakers, exhibitors, organizers, and volunteers at any PyCon event are required to conform to the following Code of Conduct, as set forth by the Python Software Foundation. Organizers will enforce this code throughout the event.
+To make clear what is expected, all staff, attendees, speakers, exhibitors, organizers, and volunteers at any PyCon US event are required to conform to the following Code of Conduct, as set forth by the Python Software Foundation. Organizers will enforce this code throughout the event.
 
 ## OUR COMMUNITY
 
@@ -49,7 +49,7 @@ Community members asked to stop any inappropriate behavior are expected to compl
 
 ### WEAPONS POLICY
 
-No weapons are allowed at PyCon or Python Software Foundation events. Weapons include but are not limited to explosives (including fireworks), guns, and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon.
+No weapons are allowed at PyCon US or Python Software Foundation events. Weapons include but are not limited to explosives (including fireworks), guns, and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon.
 
 ### CONSEQUENCES
 
@@ -64,7 +64,7 @@ Thank you for helping make this a welcoming, friendly community for everyone.
 This Code of Conduct applies to the following people at PyCon:
 
 -   staff
--   PyCon and Python Software Foundation board members
+-   PyCon US and Python Software Foundation board members
 -   speakers
 -   panelists
 -   tutorial or workshop leaders
@@ -101,10 +101,10 @@ Event organizers will enforce this code throughout the event.
 
 This Code of Conduct applies to the following online spaces:
 
--   The [PyCon site](https://us.pycon.org/)
--   Any other online space administered by PyCon or the Python Software Foundation
+-   The [PyCon US site](https://us.pycon.org/)
+-   Any other online space administered by PyCon US or the Python Software Foundation
 
-This Code of Conduct applies to the following people in official PyCon or Python Software Foundation online spaces:
+This Code of Conduct applies to the following people in official PyCon US or Python Software Foundation online spaces:
 
 -   admins of the online space
 -   maintainers
@@ -112,7 +112,7 @@ This Code of Conduct applies to the following people in official PyCon or Python
 -   contributors
 -   all community members
 
-The PyCon Code of Conduct work group will receive and evaluate incident reports from the online communities listed above. The PyCon Code of Conduct work group will work with online community administrators/moderators to suggest actions to take in response to a report. In cases where the administrators/moderators disagree on the suggested resolution for a report, the PyCon Code of Conduct work group may choose to notify the Python Software Foundation Code of Conduct work group or the Python Software Foundation board.
+The PyCon US Code of Conduct work group will receive and evaluate incident reports from the online communities listed above. The PyCon US Code of Conduct work group will work with online community administrators/moderators to suggest actions to take in response to a report. In cases where the administrators/moderators disagree on the suggested resolution for a report, the PyCon US Code of Conduct work group may choose to notify the Python Software Foundation Code of Conduct work group or the Python Software Foundation board.
 
 ## CONTACT INFORMATION
 
@@ -151,5 +151,5 @@ Language was incorporated from the following Codes of Conduct:
 -   [Contributor Covenant version 1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct), licensed [Creative Commons Attribution 4.0 License](https://github.com/ContributorCovenant/contributor_covenant/blob/master/LICENSE.md).
 -   [Django Project Code of Conduct](https://www.djangoproject.com/conduct/), licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
 -   [LGBTQ in Tech Slack Code of Conduct](https://lgbtq.technology/coc.html), licensed under a [Creative Commons Zero License](https://creativecommons.org/publicdomain/zero/1.0/).
--   [PyCon 2018 Code of Conduct](https://us.pycon.org/2018/about/code-of-conduct/), licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
+-   [PyCon US 2018 Code of Conduct](https://us.pycon.org/2018/about/code-of-conduct/), licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
 -   [Rust Code of Conduct](https://www.rust-lang.org/en-US/conduct.html)

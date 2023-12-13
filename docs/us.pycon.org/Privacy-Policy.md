@@ -38,15 +38,17 @@ If you provide personal information to us regarding or related to a third party,
 
 ### 3\. USE OF THIRD PARTY SERVICES
 
-The PSF uses some third party services to assist with producing PyCon and operating online services supporting PyCon. Specifically, we use:
+The PSF uses some third party services to assist with producing PyCon US and operating online services supporting PyCon. Specifically, we use:
 
--   Hubilo (<https://hubilo.com/>) to provide online content management and streaming services for PyCon US. Hubilo has its own Terms of Service (<https://hubilo.com/terms-of-use>/) and Privacy Policy (<https://hubilo.com/privacy-policy/>), which apply to your use of the Hubilo service to access PyCon US online content. To the extent that Hublio's terms are more restrictive than this policy, the more restrictive terms will apply. Hubilo's use of PyCon attendee data is subject to the [Data Processing Agreement](https://uploads-ssl.webflow.com/61f2936079ce67606fdade16/63a9c7122eee221c3c616e90_Hubilo%20_%20Data%20Processing%20Addendum%20%5BDPA%5D%20-%20Updated.pdf) between Hubilo and PSF.
+-   Hubilo (<https://hubilo.com/>) to provide online content management and streaming services for PyCon US. Hubilo has its own Terms of Service (<https://hubilo.com/terms-of-use>/) and Privacy Policy (<https://hubilo.com/privacy-policy/>), which apply to your use of the Hubilo service to access PyCon US online content. To the extent that Hublio's terms are more restrictive than this policy, the more restrictive terms will apply. Hubilo's use of PyCon US attendee data is subject to the [Data Processing Agreement](https://uploads-ssl.webflow.com/61f2936079ce67606fdade16/63a9c7122eee221c3c616e90_Hubilo%20_%20Data%20Processing%20Addendum%20%5BDPA%5D%20-%20Updated.pdf) between Hubilo and PSF.
 
 -   CVent to manage attendee room assignments. We share your name, email address, affiliation, and address with CVent. CVent's use of this information is governed by the [Data Processing Addendum](https://www.cvent.com/sites/default/files/files/2022-09/CVENT%20CUSTOMER%20GDPR%20DPA%20C2P%20SCC%20%2B%20UK%20IDTA%20%28version%205.26.2022%29_0.docx) between CVent and PSF. Your disclosure of personal information to CVent is governed by their Privacy Policy (<https://www.cvent.com/en/cvent-global-privacy-policy>). 
 
--   Heroku (Salesforce) to host the PyCon website. We store your registration information on Heroku servers. Their use of this information is subject to the [Data Processing Addendum](https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/Agreements/data-processing-addendum.pdf) between Salesforce and PSF and the Salesforce Privacy Statement (<https://www.salesforce.com/company/privacy/full_privacy/>).
+-   Heroku (Salesforce) to host the PyCon US website. We store your registration information on Heroku servers. Their use of this information is subject to the [Data Processing Addendum](https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/Agreements/data-processing-addendum.pdf) between Salesforce and PSF and the Salesforce Privacy Statement (<https://www.salesforce.com/company/privacy/full_privacy/>).
 
--   [Amazon Web Services (AWS) to host the PyCon website. We store your registration information on AWS servers. Their use of this information is subject to the [Data Processing Addendum](https://aws.amazon.com/blogs/security/aws-gdpr-data-processing-addendum/) between AWS and PSF and the AWS Privacy Notice (https://aws.amazon.com/privacy/).]
+-   [Amazon Web Services (AWS) to host the PyCon US website. We store your registration information on AWS servers. Their use of this information is subject to the [Data Processing Addendum](https://aws.amazon.com/blogs/security/aws-gdpr-data-processing-addendum/) between AWS and PSF and the AWS Privacy Notice (https://aws.amazon.com/privacy/).]
+
+-   Stripe to process payments made to PyCon US. Your credit card information, email address, and invoice number are handled by Stripes servers. Their use of this information is subject to the [Stripe Data Processing Addendum](https://stripe.com/legal/dpa) between Stripe and the PSF and the [Stripe Privacy Policy](https://stripe.com/privacy).
 
 ### 4\. SENSITIVE OR SPECIAL CATEGORIES OF INFORMATION
 
@@ -62,7 +64,7 @@ The PSF collects certain information automatically when you use the website, suc
 
 #### COOKIES
 
-As you browse the PyCon US website (and the sites of third party providers contracted to provide services), those sites may place cookies on your computer. The cookies used by the PyCon website are strictly functional cookies and have no marketing purpose. For any third party provider, please see that provider's cookie policy.
+As you browse the PyCon US website (and the sites of third party providers contracted to provide services), those sites may place cookies on your computer. The cookies used by the PyCon US website are strictly functional cookies and have no marketing purpose. For any third party provider, please see that provider's cookie policy.
 
 #### PRESENTER OR AUTHOR INFORMATION
 
@@ -76,7 +78,7 @@ As noted above, we collect information from you in the course of your use of the
 
 The PSF collects personal information for the following principal purposes. The list below will state the purpose and the reason for the purpose of collecting your personal information.
 
--   To provide the PyCon website to you
+-   To provide the PyCon US website to you
 -   To enroll you for PyCon US-related mailings (opt-in only)
 -   To register you for events, tutorials, and other services
 -   To provide you with information about Python, PyCon US, and events within PyCon US
@@ -93,7 +95,7 @@ We do this for our legitimate business purposes, and under certain circumstances
 
 The PSF may share personal information with third parties engaged to assist the PSF in providing services to you or to carry out one or more of the purposes described above. These service providers are prohibited from using your personal information for any purpose other than to provide this assistance and are contractually required to protect personal information disclosed by the PSF and to comply with the general privacy principles described in this Privacy Policy. For example, we share your information with service providers, contractors and sub-contractors to help us provide the website, products, events, and services. For example, we may use a service provider to process payment information or provide analytics. When we use service providers, we provide limited access to your information so that such service provider can perform the tasks on our behalf.
 
-The PSF also shares basic contact information (badge name, nickname provided at signup, email address, and country provided during registration) with sponsors if you have explicitly consented to having your contact information shared with those sponsors by permitting them to scan your PyCon badge. You may also choose to share additional information with specific sponsors via the PyCon dashboard.
+The PSF also shares basic contact information (badge name, nickname provided at signup, email address, and country provided during registration) with sponsors if you have explicitly consented to having your contact information shared with those sponsors by permitting them to scan your PyCon US badge. You may also choose to share additional information with specific sponsors via the PyCon US dashboard.
 
 The PSF reserves the right to disclose and/or transfer personal information to a third party, if the PSF has reason to believe that disclosing personal information is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference with our rights or property, other website users, or anyone else who could be harmed by such activities. Additionally, the PSF may disclose personal information in response to a subpoena, warrant, or other court order, or when we believe in good faith that a law, regulation, subpoena, warrant or other court order requires or authorizes us to do so, or it is required to respond to an emergency situation.
 
