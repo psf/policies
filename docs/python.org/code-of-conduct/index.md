@@ -1,7 +1,7 @@
 ---
 source: https://www.python.org/psf/conduct/
 ---
-# Code of Conduct
+# Python Software Foundation Code of Conduct
 
 The Python community is made up of members from around the globe with a diverse set of skills, personalities, and experiences. It is through these differences that our community experiences great successes and continued growth. When you're working with members of the community, this Code of Conduct will help steer your interactions and keep Python a positive, successful, and growing community.
 
@@ -103,13 +103,13 @@ Event organizers will enforce this code throughout the event. Each event is requ
 
 ### PSF Online Spaces
 
-This Code of Conduct applies to the following people online spaces:
+This Code of Conduct applies to the following online spaces:
 
  * The [python-ideas](https://mail.python.org/mailman/listinfo/python-ideas), [core-mentorship](https://mail.python.org/mm3/mailman3/lists/core-mentorship.python.org/), [python-dev](https://mail.python.org/mailman/listinfo/python-dev), [docs](https://mail.python.org/mailman/listinfo/docs) mailing lists
  * All other [mailing lists hosted on python.org](https://mail.python.org/mailman/listinfo)
  * Python Software Foundation Zulip chat server
  * Python Software Foundation hosted Discourse server [discuss.python.org](https://discuss.python.org/)
- * Code repositories, issue trackers, and pull requests made against any Python Software Foundation controlled GitHub organization.
+ * Code repositories, issue trackers, and pull requests made against any Python Software Foundation controlled GitHub organization
  * The python.org mercurial server [hg.python.org](https://hg.python.org/)
  * Any other online space administered by the Python Software Foundation
 
