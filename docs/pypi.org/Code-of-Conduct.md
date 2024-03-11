@@ -25,4 +25,4 @@ For any report that involves the above admins/moderators, email
 conduct-wg@python.org instead.
 
 [Python Packaging Authority]: https://github.com/pypa/
-[PSF Code of Conduct]: https://www.python.org/psf/conduct/
+[PSF Code of Conduct]: ../../python.org/code-of-conduct/
