@@ -3,8 +3,14 @@ preview: !ENV [PREVIEW, 'False']
 theme:
   name: material
   custom_dir: ./overrides
+extra_css:
+  - stylesheets/extra.css
 plugins:
   - git-revision-date-localized:
       type: date
       enable_creation_date: false
       fallback_to_build_date: true
+extra:
+  homepage: https://python.org/psf/
+site_url: https://policies.python.org/
+repo_url: https://github.com/psf/policies
