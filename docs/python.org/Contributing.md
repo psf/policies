@@ -89,6 +89,5 @@ In order to give Python developers ready access to the list
 of forms received, we will publish the names (but not the
 addresses) of all contributors in the Python source code repository.
 
-<p>
 If you have any questions, please mail us
 [contributors@python.org](mailto:contributors@python.org).

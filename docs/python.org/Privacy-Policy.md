@@ -112,7 +112,7 @@ accurate, complete, and current.
 
 If you believe that any personal information we have about you is incorrect, 
 or is, has been, or might be used inappropriately, please contact us at 
-psf@python.org and we will take steps to correct, delete, or restrict the use
+<psf@python.org> and we will take steps to correct, delete, or restrict the use
 of the information, as appropriate.
 
 ## 6. Changes

@@ -132,6 +132,6 @@ We will keep your personal information for no longer than is necessary for the p
 
 ### 11\. CONTACTING THE PSF WITH QUESTIONS, CONCERNS, OR COMPLAINTS
 
-If you have any questions, concerns, or complaints about this Privacy Policy, please contact legal@python.org. You are entitled to make an anonymous complaint or inquiry in relation to this Privacy Policy or your privacy rights; however, we may require you to identify yourself if required by law or it is impracticable for us to deal with your matter otherwise.
+If you have any questions, concerns, or complaints about this Privacy Policy, please contact <legal@python.org>. You are entitled to make an anonymous complaint or inquiry in relation to this Privacy Policy or your privacy rights; however, we may require you to identify yourself if required by law or it is impracticable for us to deal with your matter otherwise.
 
 We will acknowledge receipt of any complaint and will strive to provide you with a written response within 30 days of receipt of your complaint. There may be instances where this is not possible due to the circumstances under which the complaint was made, the content of the complaint, and the scope of the complaint. If this is the case, we will respond to your complaint in a reasonable and practical time.
