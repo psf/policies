@@ -14,7 +14,7 @@ within the project.
 
 ## Reporting
 
-All incidents should be reported by emailing conduct@pypa.io. This email is an
+All incidents should be reported by emailing <conduct@pypa.io>. This email is an
 alias with the following responders:
 
 * Dustin Ingram (https://github.com/di)
@@ -22,7 +22,7 @@ alias with the following responders:
 * Donald Stufft (https://github.com/dstufft)
 
 For any report that involves the above admins/moderators, email
-conduct-wg@python.org instead.
+<conduct-wg@python.org> instead.
 
 [Python Packaging Authority]: https://github.com/pypa/
 [PSF Code of Conduct]: ../../python.org/code-of-conduct/

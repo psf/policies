@@ -64,7 +64,7 @@ Our designated copyright agent to receive DMCA Notices and Counter Notices is:
 > Python Software Foundation  
 > 9450 SW Gemini Drive ECM 90772  
 > Beaverton, OR 97008  
-> legal@python.org  
+> <legal@python.org>  
 > +1-(503)-714-1142
 
 ## Repeat Infringers

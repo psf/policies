@@ -59,4 +59,4 @@ Regulations.
 ## Legal Mailing List
 
 If you have any questions, please send them to the legal mailing list at:
-legal@python.org.
+<legal@python.org>.
