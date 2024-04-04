@@ -46,7 +46,7 @@ The PSF uses some third party services to assist with producing PyCon US and ope
 
 -   Heroku (Salesforce) to host the PyCon US website. We store your registration information on Heroku servers. Their use of this information is subject to the [Data Processing Addendum](https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/Agreements/data-processing-addendum.pdf) between Salesforce and PSF and the Salesforce Privacy Statement (<https://www.salesforce.com/company/privacy/full_privacy/>).
 
--   [Amazon Web Services (AWS) to host the PyCon US website. We store your registration information on AWS servers. Their use of this information is subject to the [Data Processing Addendum](https://aws.amazon.com/blogs/security/aws-gdpr-data-processing-addendum/) between AWS and PSF and the AWS Privacy Notice (https://aws.amazon.com/privacy/).]
+-   Amazon Web Services (AWS) to host the PyCon US website. We store your registration information on AWS servers. Their use of this information is subject to the [Data Processing Addendum](https://aws.amazon.com/blogs/security/aws-gdpr-data-processing-addendum/) between AWS and PSF and the AWS Privacy Notice (<https://aws.amazon.com/privacy/>).
 
 -   Stripe to process payments made to PyCon US. Your credit card information, email address, and invoice number are handled by Stripes servers. Their use of this information is subject to the [Stripe Data Processing Addendum](https://stripe.com/legal/dpa) between Stripe and the PSF and the [Stripe Privacy Policy](https://stripe.com/privacy).
 
