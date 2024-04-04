@@ -56,7 +56,7 @@ Anyone who has a conflict of interest will remove themselves from the discussion
 
 ## Risk
 
- * *Does this incident include sexual harrasment?*
+ * *Does this incident include sexual harassment?*
  * *Does this pose a safety risk?* Does the behavior put a person's physical safety at risk? Will this incident severely negatively impact someone's mental health?
  * *Is there a risk of this behavior being repeated?* Does the reported person understand why their behavior was inappropriate? Is there an established pattern of behavior from past reports?
 
