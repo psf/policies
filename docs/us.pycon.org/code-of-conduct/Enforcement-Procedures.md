@@ -28,7 +28,7 @@ Examples of conflicts of interest include:
 
 -   The reporter or reported person is your manager
 -   You have a romantic or platonic relationship with either the reporter or the reported person. It's fine to participate if they are an acquaintance.
--   The reporter or reported person is your metamour. (This is a term used in the poly community; the short definition is [here](https://www.urbandictionary.com/define.php?term=Metamour), and a longer description is [here](https://solopoly.net/2012/09/29/whats-a-metamour-on-my-terms/)).
+-   The reporter or reported person is your metamour. (This is a term used in the poly community; the short definition is [here](https://www.urbandictionary.com/define.php?term=Metamour), and a longer description is [here](https://solopoly.net/2012/09/29/whats-a-metamour-on-my-terms/)).
 -   The reporter or reported person is your family member
 -   The reporter or reported person is your direct client
 -   The reporter or reported person is someone you work closely with. This could be someone on your team or someone who works on the same project as you.
@@ -42,20 +42,20 @@ Anyone who has a conflict of interest will remove themselves from the discussion
 
 #### JURISDICTION
 
--   *Is this a Code of Conduct violation?* Is this behavior on our list of inappropriate behavior? Is it borderline inappropriate behavior? Does it violate our community norms?
--   *Did this occur in a space that is within our Code of Conduct's scope?* If the incident occurred outside the community, but a community member's mental health or physical safety may be negatively impacted if no action is taken, the incident may be in scope. Private conversations in community spaces are also in scope.
+-   *Is this a Code of Conduct violation?* Is this behavior on our list of inappropriate behavior? Is it borderline inappropriate behavior? Does it violate our community norms?
+-   *Did this occur in a space that is within our Code of Conduct's scope?* If the incident occurred outside the community, but a community member's mental health or physical safety may be negatively impacted if no action is taken, the incident may be in scope. Private conversations in community spaces are also in scope.
 
 #### IMPACT
 
--   *Did this incident occur in a private conversation or in a public space?* Incidents that all community members can see will have more negative impact.
--   *Does this behavior negatively impact a marginalized group in our community?* Is the reporter a person from a marginalized group in our community? How is the reporter being negatively impacted by the reported person's behavior? Are members of the marginalized group likely to disengage with the community if no action was taken on this report?
--   *Does this incident involve a community leader?* Community members often look up to community leaders to set the standard of acceptable behavior.
+-   *Did this incident occur in a private conversation or in a public space?* Incidents that all community members can see will have more negative impact.
+-   *Does this behavior negatively impact a marginalized group in our community?* Is the reporter a person from a marginalized group in our community? How is the reporter being negatively impacted by the reported person's behavior? Are members of the marginalized group likely to disengage with the community if no action was taken on this report?
+-   *Does this incident involve a community leader?* Community members often look up to community leaders to set the standard of acceptable behavior.
 
 #### RISK
 
 -   *Does this incident include sexual harassment?*
--   *Does this pose a safety risk?* Does the behavior put a person's physical safety at risk? Will this incident severely negatively impact someone's mental health?
--   *Is there a risk of this behavior being repeated?* Does the reported person understand why their behavior was inappropriate? Is there an established pattern of behavior from past reports?
+-   *Does this pose a safety risk?* Does the behavior put a person's physical safety at risk? Will this incident severely negatively impact someone's mental health?
+-   *Is there a risk of this behavior being repeated?* Does the reported person understand why their behavior was inappropriate? Is there an established pattern of behavior from past reports?
 
 Reports which involve higher risk or higher impact may face more severe consequences than reports which involve lower risk or lower impact.
 
@@ -110,7 +110,7 @@ The follow up email should be sent no later than one week after the receipt of t
 
 Attribution
 
--   The [PyCon US Code of Conduct](../) is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
--   Ada Initiative's guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)" is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)
--   Audrey Eschright of [Safety First PDX](http://safetyfirstpdx.org/) provided the impact vs risk assessment framework, which is licensed under a [Creative Commons Attribution Share-Alike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/)by Audrey Eschright of [Safety First PDX](http://safetyfirstpdx.org/)
--   [Code of Conduct template](https://github.com/sagesharp/code-of-conduct-template/) was created by [Otter Tech](https://otter.technology/code-of-conduct-training) and is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)
+-   The [PyCon US Code of Conduct](../) is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
+-   Ada Initiative's guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)" is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)
+-   Audrey Eschright of [Safety First PDX](http://safetyfirstpdx.org/) provided the impact vs risk assessment framework, which is licensed under a [Creative Commons Attribution Share-Alike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/)by Audrey Eschright of [Safety First PDX](http://safetyfirstpdx.org/)
+-   [Code of Conduct template](https://github.com/sagesharp/code-of-conduct-template/) was created by [Otter Tech](https://otter.technology/code-of-conduct-training) and is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)

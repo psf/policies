@@ -10,13 +10,13 @@ You may opt in to getting email messages about the PyCon US conference, and you 
 
 After PyCon US is over and we have fully discharged all of our responsibilities, we will delete any personal information that is not required to preserve publicly-available educational materials or to maintain legal records.
 
-### 1\. WHO IS RESPONSIBLE FOR THE PERSONAL INFORMATION THAT WE COLLECT?
+### 1\. WHO IS RESPONSIBLE FOR THE PERSONAL INFORMATION THAT WE COLLECT?
 
 For the purpose of data protection laws, the Python Software Foundation ("PSF") is the data controller in respect to the personal information that we collect and use as part of our business activities. As the data controller, we control, manage, and dictate the purpose for which your personal information is used and how we use your personal information for our business activity.
 
 If you choose to provide your personal information to other parties during PyCon US, including sponsors, then their data privacy policies apply to the data that you give to them.
 
-### 2\. WHAT PERSONAL INFORMATION DO WE COLLECT?
+### 2\. WHAT PERSONAL INFORMATION DO WE COLLECT?
 
 The types of personal information that the PSF may collect include, but are not limited to, the following:
 
@@ -42,7 +42,7 @@ The PSF uses some third party services to assist with producing PyCon US and ope
 
 -   Hubilo (<https://hubilo.com/>) to provide online content management and streaming services for PyCon US. Hubilo has its own Terms of Service (<https://hubilo.com/terms-of-use>/) and Privacy Policy (<https://hubilo.com/privacy-policy/>), which apply to your use of the Hubilo service to access PyCon US online content. To the extent that Hublio's terms are more restrictive than this policy, the more restrictive terms will apply. Hubilo's use of PyCon US attendee data is subject to the [Data Processing Agreement](https://uploads-ssl.webflow.com/61f2936079ce67606fdade16/63a9c7122eee221c3c616e90_Hubilo%20_%20Data%20Processing%20Addendum%20%5BDPA%5D%20-%20Updated.pdf) between Hubilo and PSF.
 
--   CVent to manage attendee room assignments. We share your name, email address, affiliation, and address with CVent. CVent's use of this information is governed by the [Data Processing Addendum](https://www.cvent.com/sites/default/files/files/2022-09/CVENT%20CUSTOMER%20GDPR%20DPA%20C2P%20SCC%20%2B%20UK%20IDTA%20%28version%205.26.2022%29_0.docx) between CVent and PSF. Your disclosure of personal information to CVent is governed by their Privacy Policy (<https://www.cvent.com/en/cvent-global-privacy-policy>). 
+-   CVent to manage attendee room assignments. We share your name, email address, affiliation, and address with CVent. CVent's use of this information is governed by the [Data Processing Addendum](https://www.cvent.com/sites/default/files/files/2022-09/CVENT%20CUSTOMER%20GDPR%20DPA%20C2P%20SCC%20%2B%20UK%20IDTA%20%28version%205.26.2022%29_0.docx) between CVent and PSF. Your disclosure of personal information to CVent is governed by their Privacy Policy (<https://www.cvent.com/en/cvent-global-privacy-policy>).
 
 -   Heroku (Salesforce) to host the PyCon US website. We store your registration information on Heroku servers. Their use of this information is subject to the [Data Processing Addendum](https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/Agreements/data-processing-addendum.pdf) between Salesforce and PSF and the Salesforce Privacy Statement (<https://www.salesforce.com/company/privacy/full_privacy/>).
 
@@ -50,7 +50,7 @@ The PSF uses some third party services to assist with producing PyCon US and ope
 
 -   Stripe to process payments made to PyCon US. Your credit card information, email address, and invoice number are handled by Stripes servers. Their use of this information is subject to the [Stripe Data Processing Addendum](https://stripe.com/legal/dpa) between Stripe and the PSF and the [Stripe Privacy Policy](https://stripe.com/privacy).
 
-### 4\. SENSITIVE OR SPECIAL CATEGORIES OF INFORMATION
+### 4\. SENSITIVE OR SPECIAL CATEGORIES OF INFORMATION
 
 #### SENSITIVE INFORMATION
 
@@ -70,11 +70,11 @@ As you browse the PyCon US website (and the sites of third party providers contr
 
 If you choose to author a written resource, including a mailing list post, or speak at PyCon US (both live and recorded for further broadcasting), you may be required to provide minimal biographical information to associate with your presentation or materials. You agree that this information will remain publicly available for purposes of proper attribution of your work and maintenance of the historical record.
 
-### 5\. HOW DO WE OBTAIN YOUR PERSONAL INFORMATION?
+### 5\. HOW DO WE OBTAIN YOUR PERSONAL INFORMATION?
 
 As noted above, we collect information from you in the course of your use of the PSF website, products, and services. For example, we collect information from you when you subscribe to our mailing list. We collect information from you when you contact or communicate with us (including through the website, by email, or otherwise). We collect your personal information while monitoring the PSF website, products, and services. We gather information about you when you provide it to us, or interact with us directly, for instance engaging with staff or registering for an event. We may also in certain cases collect or receive information about you from other sources, such as third party companies.
 
-### 6\. HOW DO WE USE THE PERSONAL INFORMATION THAT WE COLLECT?
+### 6\. HOW DO WE USE THE PERSONAL INFORMATION THAT WE COLLECT?
 
 The PSF collects personal information for the following principal purposes. The list below will state the purpose and the reason for the purpose of collecting your personal information.
 
@@ -91,7 +91,7 @@ The PSF collects personal information for the following principal purposes. The 
 
 We do this for our legitimate business purposes, and under certain circumstances, to perform a contract between you and us. We may request your consent in circumstances where a legal justification over and above legitimate interests is required by applicable law.
 
-### 7\. WHO DO WE SHARE YOUR PERSONAL INFORMATION WITH?
+### 7\. WHO DO WE SHARE YOUR PERSONAL INFORMATION WITH?
 
 The PSF may share personal information with third parties engaged to assist the PSF in providing services to you or to carry out one or more of the purposes described above. These service providers are prohibited from using your personal information for any purpose other than to provide this assistance and are contractually required to protect personal information disclosed by the PSF and to comply with the general privacy principles described in this Privacy Policy. For example, we share your information with service providers, contractors and sub-contractors to help us provide the website, products, events, and services. For example, we may use a service provider to process payment information or provide analytics. When we use service providers, we provide limited access to your information so that such service provider can perform the tasks on our behalf.
 
@@ -101,7 +101,7 @@ The PSF reserves the right to disclose and/or transfer personal information to a
 
 If you choose not to provide the PSF with your personal information, you may still visit some of the PSF website; however, you may be unable to access certain options, offers, and services.
 
-### 8\. TRANSFER OF PERSONAL INFORMATION ACROSS BORDERS
+### 8\. TRANSFER OF PERSONAL INFORMATION ACROSS BORDERS
 
 The PSF is a United States organization, headquartered in the United States. While we are not a global company, we may allow your personal information to be shared with third-party service providers based both within the United States and in other countries. This may entail a transfer of your personal information from a location within the European Economic Area to outside the European Economic Area, or from outside the European Economic Area to a location with the Economic European Area.
 
@@ -109,7 +109,7 @@ When we provide your personal information overseas, we do so in connection with 
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we use reasonable efforts to protect your personal information, we cannot guarantee the security of your personal information transmitted to our website and any transmission is at your own risk. Once we have received your personal information, we will use reasonable and appropriate procedures and security features to try to prevent unauthorized access.
 
-### 9\. YOUR RIGHTS, INCLUDING REMOVING, CORRECTING OR UPDATING PERSONAL INFORMATION
+### 9\. YOUR RIGHTS, INCLUDING REMOVING, CORRECTING OR UPDATING PERSONAL INFORMATION
 
 If you change your mind on how the PSF discloses or uses your information, or wish to access, correct or update personal information (such as your address), we will endeavor to correct, update or remove the personal data that you give us. Information that you have explicitly made available for unrestricted public access, such as having your name associated with a talk that you provide, may not be able to be deleted.
 
@@ -126,11 +126,11 @@ Citizens of California and Virginia, and citizens of countries in the European U
 
 If these rights apply to you and you wish to exercise those rights, please contact the PyCon US organizers.
 
-### 10\. HOW LONG WILL WE KEEP YOUR PERSONAL INFORMATION
+### 10\. HOW LONG WILL WE KEEP YOUR PERSONAL INFORMATION
 
 We will keep your personal information for no longer than is necessary for the purposes for which the personal data are processed.
 
-### 11\. CONTACTING THE PSF WITH QUESTIONS, CONCERNS, OR COMPLAINTS
+### 11\. CONTACTING THE PSF WITH QUESTIONS, CONCERNS, OR COMPLAINTS
 
 If you have any questions, concerns, or complaints about this Privacy Policy, please contact legal@python.org. You are entitled to make an anonymous complaint or inquiry in relation to this Privacy Policy or your privacy rights; however, we may require you to identify yourself if required by law or it is impracticable for us to deal with your matter otherwise.
 
