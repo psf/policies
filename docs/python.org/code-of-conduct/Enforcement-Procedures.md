@@ -213,6 +213,15 @@ Report documents should include:
 
 All discussion summaries should include dates that they took place.
 
+### Ongoing Documentation of Event and Community Bans
+
+The Board Secretary and/or other persons or roles designated by a resolution of the Board ("maintainers") shall maintain a list of people who have been banned from Python Software Foundation-organized events including:
+
+* The effective date of their ban
+* The duration of their bans, or whether the ban is permanent.
+
+This list shall only be viewable by the maintainers.
+
 ### Privacy Concerns
 
 There are some common privacy pitfalls to online tools like Google Docs. Make sure to always share the document with committee members who don't have a conflict of interest, rather than turning link sharing on. This prevents people outside of the committee from accessing the documents.

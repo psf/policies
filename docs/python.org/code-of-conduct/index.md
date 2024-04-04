@@ -115,6 +115,7 @@ This Code of Conduct applies to the following online spaces:
 
 This Code of Conduct applies to the following people in official Python Software Foundation online spaces:
 
+ * PSF Members, including Fellows
  * admins of the online space
  * maintainers
  * reviewers
