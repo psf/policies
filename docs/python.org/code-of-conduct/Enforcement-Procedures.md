@@ -1,6 +1,3 @@
----
-source: https://www.python.org/psf/conduct/enforcement/
----
 # Python Software Foundation Code of Conduct Working Group Enforcement Procedures
 
 This document summarizes the procedures the Python Software Foundation Code of Conduct work group uses to enforce the Code of Conduct.
@@ -119,13 +116,13 @@ If the reported person provides additional context, the Python Software Foundati
 
 # Follow up with the reporter
 
-A person who makes a report should receive a follow up email stating what action was taken in response to the report. If the work group decided no response was needed, they should provide an email explaining why it was not a Code of Conduct violation. Reports that are not made in good faith (such as "reverse sexism" or "reverse racism") may receive no response.
+A person who makes a report should receive a follow-up email stating what action was taken in response to the report. If the work group decided no response was needed, they should provide an email explaining why it was not a Code of Conduct violation. Reports that are not made in good faith (such as "reverse sexism" or "reverse racism") may receive no response.
 
-The follow up email should be sent no later than one week after the receipt of the report. If deliberation or follow up with the reported person takes longer than one week, the work group should send a status email to the reporter.
+The follow-up email should be sent no later than one week after the receipt of the report. If deliberation or follow-up with the reported person takes longer than one week, the work group should send a status email to the reporter.
 
 # Documentation and Privacy Policies
 
-Depending on how the Code of Conduct committee is set up, there may be different places where information about Code of Conduct reports may be accessible:
+Depending on how the Code of Conduct committee is set up, there may be different places where information about the Code of Conduct reports may be accessible:
 
  * Personal email of Code of Conduct committee members
  * Archives of committee mailing lists
@@ -136,7 +133,7 @@ In all cases, documents and notes should only be available to committee members 
 
 ## Committee shared email address
 
-Code of Conduct committees need to be able to be reached by one email address. It is recommended that the committee use an alias which forwards email to individual members.
+Code of Conduct committees need to be able to be reached by one email address. It is recommended that the committee use an alias that forwards email to individual members.
 
 Using a mailing list is not recommended. This is because mailing lists typically archive all emails. This means new committee members gain access to all past archives. They can deliberately or accidentally see past reports where they have a conflict of interest. In order to prevent potential conflicts of interest, it is recommended to not have a mailing list archive.
 
@@ -195,7 +192,7 @@ The spreadsheet with status of open and closed cases should have the following f
     </tbody>
 </table>
 
-Keep resolutions and notes vague enough that enforcement team members with a conflict of interest don't know the details of the incident. Use gender neutral language when describing the reported person in the spreadsheet.
+Keep resolutions and notes vague enough that enforcement team members with a conflict of interest don't know the details of the incident. Use gender-neutral language when describing the reported person in the spreadsheet.
 
 ### Report Documentation
 
@@ -240,16 +237,17 @@ When discussing a change to the Python community Code of Conduct or enforcement 
 
 ## Current list of voting members
 
+Tania Allard
 Brett Cannon
-Carol Willing
-Ewa Jodlowska
-Jackie Kazil
-Jeff Triplett
-Lorena Mesa
-Philip James
 Rami Chowdhury
-Trey Hunner
-Van Lindberg
+Jessica Greene
+Cheuk Ting Ho
+Tereza Iofciu
+Łukasz Langa
+Deb Nicholson
+Mojdeh Rastgoo
+Jeff Triplett
+Drew Winstel
 
 ## Advisers
 

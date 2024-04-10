@@ -1,12 +1,8 @@
----
-source: https://www.python.org/psf/conduct/reporting/
----
-
 # Python Software Foundation Community Member Procedure For Reporting Code of Conduct Incidents
 
 **If you believe someone is in physical danger, including from themselves**, the most important thing is to get that person help. Please contact the appropriate crisis number, non-emergency number, or police number. If you are in a PSF-sponsored conference or meeting, you can consult with a volunteer or staff member to help find an appropriate number.
 
-If you believe someone has violated the [PSF Code of Conduct](../) we encourage you to report it. If you are unsure whether the incident is a violation, or whether the space where it happened is covered by the Code of Conduct, we encourage you to still report it. We are fine with receiving reports where we decide to take no action for the sake of creating a safer space.
+If you believe someone has violated the [PSF Code of Conduct](../), we encourage you to report it. If you are unsure whether the incident is a violation, or whether the space where it happened is covered by the Code of Conduct, we encourage you to still report it. We are fine with receiving reports where we decide to take no action for the sake of creating a safer space.
 
 Each PSF-controlled meeting or online forum should have a designated moderator or Code of Conduct point of contact.  Larger gatherings, like conferences, may have several people to contact. Specific information should be available for each PSF-affiliated gathering, online or off. 
 
@@ -14,7 +10,7 @@ If you find that you need to make a report, and you cannot find the appropriate 
 
 *General PSF reporting procedure:*
 
-The best way to contact the PSF Code of Conduct working group is by email at **<conduct-wg@python.org>**. The members of the Code of Conduct Working Group who monitor this alias is listed at [LINK](https://wiki.python.org/psf/ConductWG/Charter#List_of_Participants.2FWho_we_are). 
+The best way to contact the PSF Code of Conduct working group is by email at **<conduct-wg@python.org>**. The members of the Code of Conduct Working Group who monitor this alias are listed at [LINK](https://wiki.python.org/psf/ConductWG/Charter#List_of_Participants.2FWho_we_are).
 
 In the event of a [conflict of interest](#conflicts-of-interest), you may directly contact any of the lead incident responders:
 
@@ -31,7 +27,7 @@ In the event of a [conflict of interest](#conflicts-of-interest), you may direct
       * Python Code of Conduct WG Member
       * <drew@defna.org>
 
-You can also contact any member of the Python Software Foundation [Board of Directors](https://www.python.org/psf/members/#board-of-directors) to make a report. Certain gatherings and online fora, will have additional lead responders for the purpose of helping address incidents in particular PSF-affiliated spaces. 
+You can also contact any member of the Python Software Foundation [Board of Directors](https://www.python.org/psf/members/#board-of-directors) to make a report. Certain gatherings and online fora will have additional lead responders for the purpose of helping address incidents in particular PSF-affiliated spaces.
 
 ## Report Data
 
