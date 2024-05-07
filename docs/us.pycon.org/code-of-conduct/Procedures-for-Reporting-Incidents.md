@@ -11,18 +11,17 @@ If you find that you need to make a report, and you cannot find the appropriate 
 The best way to contact the PyCon US Code of Conduct event staff is by email at <pycon-us-report@python.org>. The members of the PyCon US event staff who monitor this account are:
 
 -   Deb Nicholson
+-   Marie Nordin
 -   Łukasz Langa
--   Olivia Sauls
--   Ee Durbin
 
 In the event of a conflict of interest, you may directly contact any of the lead incident responders:
 
--   Ee Durbin
-    -   Python Software Foundation - Director of Infrastructure
-    -   <ee@python.org>
--   Olivia Sauls
-    -   Python Software Foundation - Program Director
-    -   <olivia@python.org>
+-   Marie Nordin
+    -   Python Software Foundation - Community Communications Manager
+    -   <marie@python.org>
+-   Łukasz Langa
+    -   Python Software Foundation - CPython Developer in Residence
+    -   <lukasz@python.org>
 
 REPORT DATA
 -----------
