@@ -33,7 +33,7 @@ After the event, any **official communication channel** used with the attendees 
 
 ## What to include
 
-Starting with some general information about the event puts all data in context. Include **the size of the event**, with separate numbers for in-person and online attendees, if applicable. Briefly describe the **reporting process**; who the people enforcing the CoC and responding to reports were; how an attendee could report a CoC issue; and where this information was available for attendees to find.
+Starting with some general information about the event puts all data in context. Include **the size of the event**, with separate numbers for in-person and online attendees, if applicable. Briefly describe the **reporting process**: who the people enforcing the CoC and responding to reports were, how an attendee could report a CoC issue, and where this information was available for attendees to find.
 
 The main part of the report will be the **statistics of reports** received (including past 3~5 years historical statistics can be helpful for comparison) and the **report status / progress for each report**.
 
@@ -42,4 +42,4 @@ If there was a post-conference survey asking attendees about their confidence in
 
 ## What **NOT** to include
 
-Make sure the transparency report does not include any sensitive information such as the names or any identifiable information of the reporters and the reported people. On the off-chance that local police were called, you should say they were called and not make further comments on the details as it could adversely affect official action. 
+Make sure the transparency report does not include any sensitive information such as the names or any identifiable information of the reporters and the reported people. In the event that law enforcement was called, you should say they were called and not make further comments on the details as it could adversely affect official action. 
