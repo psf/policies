@@ -47,6 +47,7 @@ We do not allow content or activity on PyPI that:
   policies;
 - inauthentic interactions, such as fake accounts and automated inauthentic
   activity;
+- uses obfuscation techniques to hide or mask functionality;
 - creation of or participation in secondary markets for the purpose of the
   proliferation of inauthentic activity;
 - using PyPI as a platform for propagating abuse on other platforms;
