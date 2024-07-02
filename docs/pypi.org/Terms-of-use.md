@@ -1,7 +1,7 @@
 ---
 source: https://pypi.org/policy/terms-of-use/
 ---
-# Terms of use
+# Terms of Use
 
 By registering to upload materials to PyPI, I agree and affirmatively
 acknowledge the following:
