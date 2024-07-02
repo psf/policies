@@ -1,5 +1,5 @@
 site_name: Python Software Foundation Policies
-preview: !ENV [PREVIEW, 'False']
+preview: !ENV [PREVIEW, "False"]
 theme:
   name: material
   custom_dir: ./overrides
@@ -25,3 +25,26 @@ extra:
   homepage: https://python.org/psf/
 site_url: https://policies.python.org/
 repo_url: https://github.com/psf/policies
+
+nav:
+  - "pypi.org":
+      - "pypi.org/Acceptable-Use-Policy.md"
+      - "pypi.org/Code-of-Conduct.md"
+      - "pypi.org/Terms-of-Use.md"
+  - "python.org":
+      - "python.org/CVE-Numbering-Authority.md"
+      - "python.org/Contributing.md"
+      - "python.org/Copyright-Policy.md"
+      - "python.org/Legal-Statements.md"
+      - "python.org/Privacy-Policy.md"
+      - "Code of Conduct":
+          - "python.org/code-of-conduct/index.md"
+          - "python.org/code-of-conduct/Best-Practices.md"
+          - "python.org/code-of-conduct/Enforcement-Procedures.md"
+          - "python.org/code-of-conduct/Procedures-for-Reporting-Incidents.md"
+  - "us.pycon.org":
+      - "us.pycon.org/Privacy-Policy.md"
+      - "Code of Conduct":
+          - "us.pycon.org/code-of-conduct/index.md"
+          - "us.pycon.org/code-of-conduct/Enforcement-Procedures.md"
+          - "us.pycon.org/code-of-conduct/Procedures-for-Reporting-Incidents.md"
