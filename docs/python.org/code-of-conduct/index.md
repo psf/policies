@@ -105,12 +105,12 @@ Event organizers will enforce this code throughout the event. Each event is requ
 
 This Code of Conduct applies to the following online spaces:
 
- * The [python-ideas](https://mail.python.org/mailman/listinfo/python-ideas), [core-mentorship](https://mail.python.org/mm3/mailman3/lists/core-mentorship.python.org/), [python-dev](https://mail.python.org/mailman/listinfo/python-dev), [docs](https://mail.python.org/mailman/listinfo/docs) mailing lists
+ * Mailing lists, including [python-ideas](https://mail.python.org/mailman/listinfo/python-ideas), [core-mentorship](https://mail.python.org/mm3/mailman3/lists/core-mentorship.python.org/), [python-dev](https://mail.python.org/mailman/listinfo/python-dev), [docs](https://mail.python.org/mailman/listinfo/docs)
  * All other [mailing lists hosted on python.org](https://mail.python.org/mailman/listinfo)
  * Core developers' Python Discord server
+ * The PSF Discord and Slack servers
  * Python Software Foundation hosted Discourse server [discuss.python.org](https://discuss.python.org/)
- * Code repositories, issue trackers, and pull requests made against any Python Software Foundation controlled GitHub organization
- * The python.org mercurial server [hg.python.org](https://hg.python.org/)
+ * Code repositories, issue trackers, and pull requests made against any Python Software Foundation-controlled GitHub organization
  * Any other online space administered by the Python Software Foundation
 
 This Code of Conduct applies to the following people in official Python Software Foundation online spaces:
