@@ -107,7 +107,7 @@ This Code of Conduct applies to the following online spaces:
 
  * The [python-ideas](https://mail.python.org/mailman/listinfo/python-ideas), [core-mentorship](https://mail.python.org/mm3/mailman3/lists/core-mentorship.python.org/), [python-dev](https://mail.python.org/mailman/listinfo/python-dev), [docs](https://mail.python.org/mailman/listinfo/docs) mailing lists
  * All other [mailing lists hosted on python.org](https://mail.python.org/mailman/listinfo)
- * Python Software Foundation Zulip chat server
+ * Core developers' Python Discord server
  * Python Software Foundation hosted Discourse server [discuss.python.org](https://discuss.python.org/)
  * Code repositories, issue trackers, and pull requests made against any Python Software Foundation controlled GitHub organization
  * The python.org mercurial server [hg.python.org](https://hg.python.org/)
