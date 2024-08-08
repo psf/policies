@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 
-{% block announce %}{% if config.preview %}
+{% block announce %}{% if config.extra.preview %}
   <p>This is a <strong>preview</strong> of provisional changes to our policies.</p>
   <p>Any differences between the contents of these pages and the policies published at https://policies.python.org/ are <strong>not</strong> legally binding.</p>
 {% endif %}{% endblock %}
