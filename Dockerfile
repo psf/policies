@@ -4,7 +4,9 @@ RUN set -x \
     && apt-get update \
     && apt-get install --no-install-recommends -y \
         build-essential git libcairo2-dev libfreetype6-dev \
-        libjpeg-dev libpng-dev libz-dev
+        libjpeg-dev libpng-dev libz-dev \
+    && apt-get clean \
+    && rm -rf /var/lib/apt/lists/*
 
 RUN set -x \
     && python3 -m venv /opt/venv
