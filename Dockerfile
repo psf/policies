@@ -1,4 +1,4 @@
-FROM python:3.11.3-slim-bullseye as docs
+FROM python:3.12.5-slim-bookworm as docs
 
 RUN set -x \
     && apt-get update \
