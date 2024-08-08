@@ -13,12 +13,13 @@ RUN set -x \
 
 ENV PATH="/opt/venv/bin:${PATH}"
 
-RUN pip --no-cache-dir --disable-pip-version-check install \
-    --upgrade pip setuptools wheel
+ENV PIP_DISABLE_PIP_VERSION_CHECK=1
+ENV PIP_NO_CACHE_DIR=1
+
+RUN pip install --upgrade pip setuptools wheel
 COPY requirements.txt /tmp/requirements.txt
 RUN set -x \
-    && pip --no-cache-dir --disable-pip-version-check \
-            install -r /tmp/requirements.txt \
+    && pip install -r /tmp/requirements.txt \
     && pip check \
     && find /opt/venv -name '*.pyc' -delete
 
