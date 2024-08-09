@@ -13,10 +13,10 @@ RUN set -x \
 
 ENV PATH="/opt/venv/bin:${PATH}"
 
-ENV PIP_DISABLE_PIP_VERSION_CHECK=1
-ENV PIP_NO_CACHE_DIR=1
+ARG PIP_DISABLE_PIP_VERSION_CHECK=1
+ARG PIP_NO_CACHE_DIR=1
 
-RUN pip install --upgrade pip setuptools wheel
+RUN pip install --upgrade pip setuptools
 COPY requirements.txt /tmp/requirements.txt
 RUN set -x \
     && pip install -r /tmp/requirements.txt \
