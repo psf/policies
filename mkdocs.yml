@@ -1,5 +1,4 @@
 site_name: Python Software Foundation Policies
-preview: !ENV [PREVIEW, "False"]
 theme:
   name: material
   custom_dir: ./overrides
@@ -23,6 +22,7 @@ plugins:
       fallback_to_build_date: true
 extra:
   homepage: https://python.org/psf/
+  preview: !ENV [PREVIEW, "False"]
 site_url: https://policies.python.org/
 repo_url: https://github.com/psf/policies
 

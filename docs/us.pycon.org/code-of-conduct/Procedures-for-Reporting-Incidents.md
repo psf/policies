@@ -2,7 +2,7 @@
 
 If you believe someone is in physical danger, including from themselves, the most important thing is to get that person help. Please contact the appropriate crisis number, non-emergency number, or police number. If you are a PyCon US attendee, you can consult with a volunteer or staff member to help find an appropriate number.
 
-If you believe someone has violated the [PyCon US Code of Conduct](..), we encourage you to report it. If you are unsure whether the incident is a violation, or whether the space where it happened is covered by the Code of Conduct, we encourage you to still report it. We are fine with receiving reports where we decide to take no action for the sake of creating a safer space.
+If you believe someone has violated the [PyCon US Code of Conduct](index.md), we encourage you to report it. If you are unsure whether the incident is a violation, or whether the space where it happened is covered by the Code of Conduct, we encourage you to still report it. We are fine with receiving reports where we decide to take no action for the sake of creating a safer space.
 
 If you find that you need to make a report, and you cannot find the appropriate Code of Conduct reporting contact, you may report to the PyCon US Code of Conduct email alias below. PyCon US event staff will handle your report. If this happens, please also mention that you could not find specific reporting information so that we can improve.
 
@@ -51,13 +51,13 @@ In some cases, we may determine that a public statement will need to be made. If
 REPORT HANDLING PROCEDURE
 -------------------------
 
-When you make a report to an incident responder, they will gather information about the incident according to the [Procedure For Incident Response](../Enforcement-Procedures).
+When you make a report to an incident responder, they will gather information about the incident according to the [Procedure For Incident Response](Enforcement-Procedures.md).
 
 After an incident responder takes the report, they will immediately consult with the PyCon US event staff, unless there is a conflict of interest, in which case any non-interested parties will be contacted.
 
 If the incident is ongoing and needs to be immediately addressed, any lead incident responder may take appropriate action to ensure the safety of everyone involved. If the situation requires it, this may take the form of a referral to an appropriate non-PyCon US agency, including the local police. PyCon US is not equipped to handle emergency situations.
 
-If the incident is less urgent, the report will be discussed by the event staff, who will meet to determine an appropriate response. Examples of possible incident responses are outlined in the [Procedure For Incident Response](../Enforcement-Procedures).
+If the incident is less urgent, the report will be discussed by the event staff, who will meet to determine an appropriate response. Examples of possible incident responses are outlined in the [Procedure For Incident Response](Enforcement-Procedures.md).
 
 Before any large in-person gathering conference, staff will have a mandatory meeting where incident response procedures will be outlined. After the conference, all incident responders will attend a debriefing session with the lead responders to discuss all incidents and determine any necessary follow-up actions.
 

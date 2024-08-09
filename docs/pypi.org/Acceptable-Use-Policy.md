@@ -41,8 +41,8 @@ We do not allow content or activity on PyPI that:
   personal information without consent.
 - automated excessive bulk activity and coordinated inauthentic activity, such
   as
-   - spamming
-   - cryptocurrency mining;
+    - spamming
+    - cryptocurrency mining;
 - bulk distribution of promotions and advertising prohibited by PyPI terms and
   policies;
 - inauthentic interactions, such as fake accounts and automated inauthentic
@@ -60,7 +60,7 @@ We do not allow content or activity on PyPI that:
 You are responsible for using PyPI in compliance with all applicable laws,
 regulations, and all of our Acceptable Use Policies. These policies may be
 updated from time to time and are provided below, as well as in our [Terms of
-Use](https://pypi.org/policy/terms-of-use/). You must not engage in activity
+Use](Terms-of-Use.md). You must not engage in activity
 that significantly harms other users. We will interpret our policies and
 resolve disputes in favor of protecting users as a whole.
 
@@ -92,7 +92,7 @@ text in the project descriptions associated with your Account, but they must be
 related to the project you are hosting on PyPI.
 
 You may not promote or distribute content or activity that is illegal or
-otherwise prohibited by our [Terms of use](/policy/terms-of-use/) or Acceptable
+otherwise prohibited by our [Terms of Use](Terms-of-Use.md) or Acceptable
 Use Policies, including excessive automated bulk activity (for example,
 spamming), get-rich-quick schemes, and misrepresentation or deception related
 to your promotion.
@@ -235,6 +235,7 @@ is inaccurate or false (misinformation) or is intentionally deceptive
 (disinformation), where such content is likely to result in harm to the public
 or to interfere with fair and equal opportunities for all to take part in a
 free and open society. This may include:
+
 - Inaccurate or scientifically unsupported medical claims that endanger public
   health or safety
 - Manipulated media, whether audio or visual, likely to mislead or deceive in a
