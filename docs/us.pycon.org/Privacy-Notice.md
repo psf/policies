@@ -1,3 +1,6 @@
+---
+title: Privacy Notice
+---
 # PyCon US Privacy Notice
 
 Last updated **{{git_revision_date_localized}}**
