@@ -1,3 +1,6 @@
+---
+title: Privacy Notice
+---
 # Python.org Privacy Notice
 
 Last updated **{{git_revision_date_localized}}**

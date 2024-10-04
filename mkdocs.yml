@@ -27,23 +27,25 @@ site_url: https://policies.python.org/
 repo_url: https://github.com/psf/policies
 
 nav:
+  - "PSF-Privacy-Notice.md"
   - "pypi.org":
       - "pypi.org/Acceptable-Use-Policy.md"
       - "pypi.org/Code-of-Conduct.md"
       - "pypi.org/Terms-of-Use.md"
+      - "pypi.org/Privacy-Notice.md"
   - "python.org":
       - "python.org/CVE-Numbering-Authority.md"
       - "python.org/Contributing.md"
       - "python.org/Copyright-Policy.md"
       - "python.org/Legal-Statements.md"
-      - "python.org/Privacy-Policy.md"
+      - "python.org/Privacy-Notice.md"
       - "Code of Conduct":
           - "python.org/code-of-conduct/index.md"
           - "python.org/code-of-conduct/Best-Practices.md"
           - "python.org/code-of-conduct/Enforcement-Procedures.md"
           - "python.org/code-of-conduct/Procedures-for-Reporting-Incidents.md"
   - "us.pycon.org":
-      - "us.pycon.org/Privacy-Policy.md"
+      - "us.pycon.org/Privacy-Notice.md"
       - "Code of Conduct":
           - "us.pycon.org/code-of-conduct/index.md"
           - "us.pycon.org/code-of-conduct/Enforcement-Procedures.md"
