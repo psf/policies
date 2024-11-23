@@ -243,6 +243,7 @@ Brett Cannon
 Rami Chowdhury
 Jessica Greene
 Cheuk Ting Ho
+Jeremy Hylton
 Tereza Iofciu
 Łukasz Langa
 Deb Nicholson
