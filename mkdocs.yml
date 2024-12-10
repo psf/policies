@@ -1,6 +1,8 @@
 site_name: Python Software Foundation Policies
 theme:
   name: material
+  logo: assets/python-logo.svg
+  favicon: assets/python-logo.svg
   custom_dir: ./overrides
   palette:
     - media: "(prefers-color-scheme: light)"
