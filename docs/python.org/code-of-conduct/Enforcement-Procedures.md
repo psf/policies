@@ -237,28 +237,28 @@ When discussing a change to the Python community Code of Conduct or enforcement 
 
 ## Current list of voting members
 
-Tania Allard
-KwonHan Bae
-Brett Cannon
-Rami Chowdhury
-Jessica Greene
-Cheuk Ting Ho
-Jeremy Hylton
-Tereza Iofciu
-Łukasz Langa
-Deb Nicholson
-Mojdeh Rastgoo
-Jeff Triplett
-Drew Winstel
+* Tania Allard
+* KwonHan Bae
+* Brett Cannon
+* Rami Chowdhury
+* Jessica Greene
+* Cheuk Ting Ho
+* Jeremy Hylton
+* Tereza Iofciu
+* Łukasz Langa
+* Deb Nicholson
+* Mojdeh Rastgoo
+* Jeff Triplett
+* Drew Winstel
 
 ## Advisers
 
 Advisers to the PSF Code of Conduct work group have access to the work group mailing list, but are not voting members.
 
-Anwesha Das
-Maricela Sanchez Miranda
-Naomi Ceder
-Thomas Wouters
+* Anwesha Das
+* Maricela Sanchez Miranda
+* Naomi Ceder
+* Thomas Wouters
 
 # Attribution
 
