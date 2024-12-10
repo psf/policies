@@ -50,3 +50,5 @@ nav:
           - "us.pycon.org/code-of-conduct/index.md"
           - "us.pycon.org/code-of-conduct/Enforcement-Procedures.md"
           - "us.pycon.org/code-of-conduct/Procedures-for-Reporting-Incidents.md"
+  - "Reference":
+      - "reference/SSDF-Request-Response.md"
