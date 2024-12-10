@@ -1,3 +1,7 @@
+!TODO! The below form letter is...
+
+---
+
 Dear [AGENCY CONTACT],
 
 I write in response to [AGENCY]’s request that the Python Software Foundation (PSF) submit a form attesting that its software development practices comport with federal government security standards. For the reasons set forth below, PSF is unable to provide the requested attestation.
@@ -10,7 +14,7 @@ We presume that PSF software was obtained by your agency or its suppliers from a
 
 Therefore, our understanding is that your agency does not require an attestation from PSF. We trust this resolves the matter. If you have any questions about our position, you may contact our [TITLE] [NAME] at [CONTACT INFO].
 
-Sincerely,
-[SIGNATURE]
-[NAME]
+Sincerely,  
+[SIGNATURE]  
+[NAME]  
 [TITLE]
