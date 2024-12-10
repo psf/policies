@@ -27,7 +27,7 @@ In the event of a [conflict of interest](#conflicts-of-interest), you may direct
       * Python Code of Conduct WG Member
       * <drew@defna.org>
 
-You can also contact any member of the Python Software Foundation [Board of Directors](https://www.python.org/psf/members/#board-of-directors) to make a report. Certain gatherings and online fora will have additional lead responders for the purpose of helping address incidents in particular PSF-affiliated spaces.
+You can also contact any member of the Python Software Foundation [Board of Directors](https://www.python.org/psf/board/) to make a report. Certain gatherings and online fora will have additional lead responders for the purpose of helping address incidents in particular PSF-affiliated spaces.
 
 ## Report Data
 
