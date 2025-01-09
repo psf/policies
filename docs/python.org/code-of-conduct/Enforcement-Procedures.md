@@ -245,7 +245,6 @@ When discussing a change to the Python community Code of Conduct or enforcement 
 * Cheuk Ting Ho
 * Jeremy Hylton
 * Tereza Iofciu
-* Łukasz Langa
 * Deb Nicholson
 * Mojdeh Rastgoo
 * Jeff Triplett
@@ -258,7 +257,7 @@ Advisers to the PSF Code of Conduct work group have access to the work group mai
 * Anwesha Das
 * Maricela Sanchez Miranda
 * Naomi Ceder
-* Thomas Wouters
+* Łukasz Langa
 
 # Attribution
 
