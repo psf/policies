@@ -42,4 +42,4 @@ If there was a post-conference survey asking attendees about their confidence in
 
 ## What **NOT** to include
 
-Make sure the transparency report does not include any sensitive information such as the names or any identifiable information of the reporters and the reported people. In the event that law enforcement was called, you should say they were called and not make further comments on the details as it could adversely affect official action. 
+Make sure the transparency report does not include any sensitive information such as the names or any identifiable information of the reporters and the reported people. In the event that law enforcement was called, you should say they were called and not make further comments on the details as it could adversely affect official action.
