@@ -10,7 +10,7 @@ If you find that you need to make a report, and you cannot find the appropriate 
 
 *General PSF reporting procedure:*
 
-The best way to contact the PSF Code of Conduct working group is by email at **<conduct-wg@python.org>**. The members of the Code of Conduct Working Group who monitor this alias are listed at [LINK](https://wiki.python.org/psf/ConductWG/Charter#List_of_Participants.2FWho_we_are).
+The best way to contact the PSF Code of Conduct working group is by email at **<conduct-wg@python.org>**. The members of the Code of Conduct Working Group who monitor this alias are listed in [the CoC WG charter](https://wiki.python.org/psf/ConductWG/Charter#List_of_Participants.2FWho_we_are).
 
 In the event of a [conflict of interest](#conflicts-of-interest), you may directly contact any of the lead incident responders:
 
