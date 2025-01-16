@@ -2,7 +2,7 @@
 
 This document summarizes the procedures the Python Software Foundation Code of Conduct work group uses to enforce the Code of Conduct.
 
-# Summary of processes
+## Summary of processes
 
 When the work group receives a report of a possible Code of Conduct violation, it will:
 
@@ -18,11 +18,11 @@ When the work group receives a report of a possible Code of Conduct violation, i
  9. Decide further responses.
  10. Follow up with the reporter.
 
-# Acknowledge the report
+## Acknowledge the report
 
 Reporters should receive an emailed acknowledgment of the receipt of their report within 24 hours.
 
-# Conflict of interest policy
+## Conflict of interest policy
 
 Examples of conflicts of interest include:
 
@@ -38,20 +38,20 @@ Committee members do not need to state why they have a conflict of interest, onl
 
 Anyone who has a conflict of interest will remove themselves from the discussion of the incident, and recluse themselves from voting on a response to the report.
 
-# Evaluating a report
+## Evaluating a report
 
-## Jurisdiction
+### Jurisdiction
 
  * *Is this a Code of Conduct violation?* Is this behavior on our list of inappropriate behavior? Is it borderline inappropriate behavior? Does it violate our community norms?
  * *Did this occur in a space that is within our Code of Conduct's scope?* If the incident occurred outside the community, but a community member's mental health or physical safety may be negatively impacted if no action is taken, the incident may be in scope. Private conversations in community spaces are also in scope.
 
-## Impact
+### Impact
 
  * *Did this incident occur in a private conversation or in a public space?* Incidents that all community members can see will have more negative impact.
  * *Does this behavior negatively impact a marginalized group in our community?* Is the reporter a person from a marginalized group in our community? How is the reporter being negatively impacted by the reported person's behavior? Are members of the marginalized group likely to disengage with the community if no action was taken on this report?
  * *Does this incident involve a community leader?* Community members often look up to community leaders to set the standard of acceptable behavior.
 
-## Risk
+### Risk
 
  * *Does this incident include sexual harassment?*
  * *Does this pose a safety risk?* Does the behavior put a person's physical safety at risk? Will this incident severely negatively impact someone's mental health?
@@ -59,7 +59,7 @@ Anyone who has a conflict of interest will remove themselves from the discussion
 
 Reports which involve higher risk or higher impact may face more severe consequences than reports which involve lower risk or lower impact.
 
-# Propose a behavioral modification plan
+## Propose a behavioral modification plan
 
 The work group will determine a concrete behavioral modification plan that ensures the inappropriate behavior is not repeated.  The work group will also discuss what actions may need to be taken if the reported person does not agree to the behavioral modification plan.
 
@@ -74,7 +74,7 @@ What follows are examples of possible behavioral modification plans for incident
  * Removing a person from leadership of relevant organizations
  * Removing a person from membership of relevant organizations
 
-# Propose consequences
+## Propose consequences
 
 What follows are examples of possible consequences to an incident report. This consequences list is not inclusive, and the Python Software Foundation Code of Conduct work group reserves the right to take any action it deems necessary.
 
@@ -87,19 +87,19 @@ Possible private responses to an incident include:
  * Permanently removing the reported person from the online community
  * Publishing an account of the incident
 
-# Work group vote
+## Work group vote
 
 Some work group members may have a conflict of interest and may be excluded from discussions of a particular incident report. Excluding those members, decisions on the behavioral modification plans and consequences will be determined by a two-thirds majority vote of the Python Software Foundation Code of Conduct work group.
 
-# Administrators/moderators approval
+## Administrators/moderators approval
 
 Once the work group has approved the behavioral modification plans and consequences, they will communicate the recommended response to the administrators/moderators of the online community. The work group should not state who reported this incident. They should attempt to anonymize any identifying information from the report.
 
-Administrators/moderators are required to respond back with whether they accept the recommended response to the report. If they disagree with the recommended response, they should provide a detailed response or additional context as to why they disagree. Administrators/moderators are encouraged to respond within a week. 
+Administrators/moderators are required to respond back with whether they accept the recommended response to the report. If they disagree with the recommended response, they should provide a detailed response or additional context as to why they disagree. Administrators/moderators are encouraged to respond within a week.
 
 In cases where the administrators/moderators disagree on the suggested resolution for a report, the Python Software Foundation Code of Conduct work group may choose to notify the Python Software Foundation board.
 
-# Follow up with the reported person
+## Follow up with the reported person
 
 The Python Software Foundation Code of Conduct work group will work with online community administrators/moderators to draft a response to the reported person. The email should contain:
 
@@ -110,17 +110,17 @@ The Python Software Foundation Code of Conduct work group will work with online 
 
 The work group should not state who reported this incident. They should attempt to anonymize any identifying information from the report. The reported person should be discouraged from contacting the reporter to discuss the report. If they wish to apologize to the reporter, the work group can accept the apology on behalf of the reporter.
 
-# Decide further responses
+## Decide further responses
 
 If the reported person provides additional context, the Python Software Foundation Code of Conduct work group may need to re-evaluate the behavioral modification plan and consequences.
 
-# Follow up with the reporter
+## Follow up with the reporter
 
 A person who makes a report should receive a follow-up email stating what action was taken in response to the report. If the work group decided no response was needed, they should provide an email explaining why it was not a Code of Conduct violation. Reports that are not made in good faith (such as "reverse sexism" or "reverse racism") may receive no response.
 
 The follow-up email should be sent no later than one week after the receipt of the report. If deliberation or follow-up with the reported person takes longer than one week, the work group should send a status email to the reporter.
 
-# Documentation and Privacy Policies
+## Documentation and Privacy Policies
 
 Depending on how the Code of Conduct committee is set up, there may be different places where information about the Code of Conduct reports may be accessible:
 
@@ -131,13 +131,13 @@ Depending on how the Code of Conduct committee is set up, there may be different
 
 In all cases, documents and notes should only be available to committee members who do not have a conflict of interest for the report. This requires communities to choose documentation tools that will meet their privacy needs.
 
-## Committee shared email address
+### Committee shared email address
 
 Code of Conduct committees need to be able to be reached by one email address. It is recommended that the committee use an alias that forwards email to individual members.
 
 Using a mailing list is not recommended. This is because mailing lists typically archive all emails. This means new committee members gain access to all past archives. They can deliberately or accidentally see past reports where they have a conflict of interest. In order to prevent potential conflicts of interest, it is recommended to not have a mailing list archive.
 
-## Committee online discussion
+### Committee online discussion
 
 A Code of Conduct committee may have an online, real-time discussion forum, such as Slack, Zulip, or IRC. If the online chat platform allows, it is recommended to set the committee channel to have past history not be available to new committee members who join the channel.
 
@@ -147,14 +147,14 @@ Committee members should not use bots or IRC bouncers to log the group discussio
 
 If no online real-time discussion forum is used, committee members without a conflict of interest will discuss the case on a separate email thread. If no committee member has a conflict of interest, and the committee email is an alias, the committee may reply to the alias to discuss the issues.
 
-## Shared Documentation
+### Shared Documentation
 
 The Code of Conduct committee should keep two types of shared documents:
 
  * A spreadsheet with the status of open and closed cases
  * A separate document for each report
 
-### Status Spreadsheet
+#### Status Spreadsheet
 
 The spreadsheet with status of open and closed cases should have the following format:
 
@@ -194,7 +194,7 @@ The spreadsheet with status of open and closed cases should have the following f
 
 Keep resolutions and notes vague enough that enforcement team members with a conflict of interest don't know the details of the incident. Use gender-neutral language when describing the reported person in the spreadsheet.
 
-### Report Documentation
+#### Report Documentation
 
 Each report should be assigned a code name, using an [online random phrase generator](http://watchout4snakes.com/wo4snakes/Random/RandomPhrase). The code name should be used in the document's title. Only committee members without a conflict of interest should have access to the report documentation.
 
@@ -210,7 +210,7 @@ Report documents should include:
 
 All discussion summaries should include dates that they took place.
 
-### Ongoing Documentation of Event and Community Bans
+#### Ongoing Documentation of Event and Community Bans
 
 The Board Secretary and/or other persons or roles designated by a resolution of the Board ("maintainers") shall maintain a list of people who have been banned from Python Software Foundation-organized events including:
 
@@ -219,7 +219,7 @@ The Board Secretary and/or other persons or roles designated by a resolution of 
 
 This list shall only be viewable by the maintainers.
 
-### Privacy Concerns
+#### Privacy Concerns
 
 There are some common privacy pitfalls to online tools like Google Docs. Make sure to always share the document with committee members who don't have a conflict of interest, rather than turning link sharing on. This prevents people outside of the committee from accessing the documents.
 
@@ -227,7 +227,7 @@ Another common issue is that when a folder is shared with the whole committee, e
 
 When on-boarding new committee members, they should be provided with a list of names of people who have been reported in a Code of Conduct incident. The new committee member should state whether they have any conflicts of interest with reviewing documentation for those cases. If not, they will be given edit access to the report documents.
 
-# Changes to Code of Conduct
+## Changes to Code of Conduct
 
 When discussing a change to the Python community Code of Conduct or enforcement policies, the Python Software Foundation Code of Conduct work group will follow this decision-making process:
 
