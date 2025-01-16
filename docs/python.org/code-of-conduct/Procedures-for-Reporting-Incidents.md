@@ -22,7 +22,7 @@ In the event of a [conflict of interest](#conflicts-of-interest), you may direct
       * <lukasz@python.org>
   * Tania Allard
       * Python Software Foundation Director
-      * <taniar.allard@gmail.com>
+      * <tania@python.org>
   * Drew Winstel
       * Python Code of Conduct WG Member
       * <drew@defna.org>
