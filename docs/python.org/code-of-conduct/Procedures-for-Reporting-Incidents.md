@@ -8,7 +8,7 @@ Each PSF-controlled meeting or online forum should have a designated moderator o
 
 If you find that you need to make a report, and you cannot find the appropriate Code of Conduct reporting contact, you may report to the PSF Code of Conduct email alias below. The PSF will handle your report. If this happens, please also mention that you could not find specific reporting information so that we can improve.
 
-*General PSF reporting procedure:*
+## General PSF reporting procedure
 
 The best way to contact the PSF Code of Conduct working group is by email at **<conduct-wg@python.org>**. The members of the Code of Conduct Working Group who monitor this alias are listed in [the CoC WG charter](https://wiki.python.org/psf/ConductWG/Charter#List_of_Participants.2FWho_we_are).
 
