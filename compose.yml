@@ -4,6 +4,7 @@ services:
       context: .
     pull_policy: never
     command: mkdocs serve -a 0.0.0.0:8000 -f mkdocs.yml
+    stop_signal: SIGINT
     volumes:
       - ./.git:/opt/venv/src/.git:z
       - ./mkdocs.yml:/opt/venv/src/mkdocs.yml:z
