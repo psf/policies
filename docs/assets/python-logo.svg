@@ -1,14 +1,130 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 110.4 109.8">
-    <defs>
-        <linearGradient id="Y" x1="89.1" x2="147.8" y1="111.9" y2="168.1" gradientUnits="userSpaceOnUse">
-            <stop offset="0" stop-color="#ffe052"/>
-            <stop offset="1" stop-color="#ffc331"/>
-        </linearGradient>
-        <linearGradient id="B" x1="55.5" x2="110.1" y1="77.1" y2="131.9" gradientUnits="userSpaceOnUse">
-            <stop offset="0" stop-color="#387eb8"/>
-            <stop offset="1" stop-color="#366994"/>
-        </linearGradient>
-    </defs>
-    <path fill="url(#B)" d="M99.8 67.5c-28 0-26.3 12.1-26.3 12.1v12.6h26.8V96H62.9s-18-2-18 26.3 15.7 27.2 15.7 27.2h9.3v-13s-.5-15.7 15.4-15.7H112s14.9.2 14.9-14.5V82.1s2.2-14.6-27-14.6zM85 75.9a4.8 4.8 0 1 1 0 9.7 4.8 4.8 0 1 1 0-9.7z" transform="translate(-45 -67.5)"/>
-    <path fill="url(#Y)" d="M100.5 177.3c28 0 26.3-12.1 26.3-12.1v-12.6H100v-3.8h37.4s18 2 18-26.3-15.7-27.2-15.7-27.2h-9.3v13s.5 15.7-15.4 15.7H88.4s-14.9-.2-14.9 14.4v24.3s-2.2 14.6 27 14.6zm14.8-8.5a4.8 4.8 0 1 1 0-9.6 4.8 4.8 0 1 1 0 9.6z" transform="translate(-45 -67.5)"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--Generator: Xara Xtreme (www.xara.com), SVG filter version: 1.0.0.13-->
+
+<svg
+   stroke-width="0.501"
+   stroke-linejoin="bevel"
+   fill-rule="evenodd"
+   version="1.1"
+   overflow="visible"
+   width="921.72906pt"
+   height="931.84357pt"
+   viewBox="0 0 921.72908 931.84355"
+   id="svg45"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs18">
+    <radialGradient
+       id="RadialGradient"
+       gradientUnits="userSpaceOnUse"
+       cx="0"
+       cy="0"
+       r="297.93201"
+       gradientTransform="matrix(1,0,0,0.266735,719.664,671.249)">
+      <stop
+         offset="0"
+         stop-color="#727272"
+         id="stop11" />
+      <stop
+         offset="1"
+         stop-color="#000000"
+         id="stop12" />
+    </radialGradient>
+    <linearGradient
+       id="LinearGradient"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="0"
+       x2="673.55499"
+       y2="0"
+       gradientTransform="rotate(-40.9772,2468.9818,513.54587)">
+      <stop
+         offset="0"
+         stop-color="#5a9fd4"
+         id="stop13" />
+      <stop
+         offset="1"
+         stop-color="#306998"
+         id="stop14" />
+    </linearGradient>
+    <linearGradient
+       id="LinearGradient_1"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="0"
+       x2="316.62"
+       y2="0"
+       gradientTransform="rotate(124.996,180.36337,688.8052)">
+      <stop
+         offset="0"
+         stop-color="#ffd43b"
+         id="stop15" />
+      <stop
+         offset="1"
+         stop-color="#ffe873"
+         id="stop16" />
+    </linearGradient>
+  </defs>
+  <g
+     id="Document"
+     fill="none"
+     stroke="#000000"
+     font-family="'Times New Roman'"
+     font-size="16px"
+     transform="matrix(1,0,0,-1,-268.21542,-692.91208)">
+    <g
+       id="Spread"
+       transform="translate(0,-2437.8)">
+      <g
+         id="Logo">
+        <g
+           id="Group"
+           stroke="none">
+          <mask
+             id="TranspMask">
+            <rect
+               x="-10%"
+               y="-10%"
+               width="120.00001%"
+               height="120.00001%"
+               fill="url(#RadialGradient)"
+               stroke="none"
+               id="rect18" />
+          </mask>
+          <path
+             d="m 1017.6,671.259 c 0,-43.91 -133.4,-79.488 -297.928,-79.488 -164.553,0 -297.95,35.578 -297.95,79.488 0,43.898 133.397,79.467 297.95,79.467 164.528,0 297.928,-35.569 297.928,-79.467 z"
+             fill="#7f7f7f"
+             fill-rule="nonzero"
+             marker-start="none"
+             marker-end="none"
+             mask="url(#TranspMask)"
+             id="path18" />
+          <g
+             id="Group_1">
+            <g
+               id="Group_2"
+               fill-rule="nonzero">
+              <path
+                 d="m 723.596,1744.88 c -38.008,-0.18 -74.306,-3.41 -106.244,-9.07 -94.083,-16.61 -111.159,-51.41 -111.159,-115.56 v -84.71 h 222.325 v -28.25 H 506.193 422.755 c -64.608,0 -121.197,-38.83 -138.889,-112.71 -20.416,-84.68 -21.314,-137.52 0,-225.94 15.795,-65.81 53.538,-112.7 118.153,-112.7 h 76.444 v 101.55 c 0,73.39 63.487,138.11 138.889,138.11 H 839.41 c 61.832,0 111.168,50.9 111.168,112.98 v 211.67 c 0,60.25 -50.832,105.51 -111.168,115.56 -38.195,6.37 -77.804,9.25 -115.814,9.07 z m -120.243,-68.14 c 22.968,0 41.72,-19.06 41.72,-42.5 0,-23.34 -18.752,-42.23 -41.72,-42.23 -23.049,0 -41.71,18.89 -41.71,42.23 0,23.44 18.661,42.5 41.71,42.5 z"
+                 marker-start="none"
+                 marker-end="none"
+                 fill="url(#LinearGradient)"
+                 id="path19"
+                 style="fill:url(#LinearGradient)" />
+              <path
+                 d="m 978.309,1507.29 v -98.71 c 0,-76.54 -64.902,-140.96 -138.899,-140.96 H 617.352 c -60.836,0 -111.159,-52.06 -111.159,-112.97 V 942.975 c 0,-60.265 52.379,-95.693 111.159,-112.992 70.372,-20.673 137.864,-24.419 222.058,0 55.977,16.213 111.168,48.82 111.168,112.992 v 84.715 h -222.06 v 28.25 h 222.06 111.172 c 64.6,0 88.68,45.06 111.16,112.7 23.2,69.63 22.22,136.61 0,225.94 -15.97,64.33 -46.46,112.71 -111.16,112.71 z M 853.408,971.204 c 23.05,0 41.72,-18.886 41.72,-42.237 0,-23.432 -18.67,-42.494 -41.72,-42.494 -22.967,0 -41.709,19.062 -41.709,42.494 0,23.351 18.742,42.237 41.709,42.237 z"
+                 marker-start="none"
+                 marker-end="none"
+                 fill="url(#LinearGradient_1)"
+                 id="path20"
+                 style="fill:url(#LinearGradient_1)" />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="Layer_1" />
+    </g>
+  </g>
 </svg>
