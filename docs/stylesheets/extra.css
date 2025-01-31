@@ -1,1 +1,5 @@
 readthedocs-flyout { display: none; }
+
+:root, [data-md-color-scheme="psf"], [data-md-color-scheme="slate"] {
+  --md-primary-fg-color:        #2b5b84;
+}

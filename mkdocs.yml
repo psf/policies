@@ -6,7 +6,7 @@ theme:
   custom_dir: ./overrides
   palette:
     - media: "(prefers-color-scheme: light)"
-      scheme: default
+      scheme: psf
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
