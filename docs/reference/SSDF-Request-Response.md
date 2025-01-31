@@ -1,5 +1,10 @@
-!TODO! The below form letter is...
+<!--
+This document template can be used to respond to US federal agencies requesting a
+NIST Secure Software Development Framework (SSDF) attestation for their use of Python.
+No further action is required after responding.
 
+More on the SSDF: https://csrc.nist.gov/Projects/ssdf
+-->
 ---
 
 Dear [AGENCY CONTACT],
