@@ -25,12 +25,15 @@ plugins:
 extra:
   homepage: https://python.org/psf/
   preview: !ENV [PREVIEW, "False"]
+markdown_extensions:
+  - admonition
 site_url: https://policies.python.org/
 repo_url: https://github.com/psf/policies
 
 nav:
   - "PSF-Privacy-Notice.md"
   - "pypi.org":
+      - "pypi.org/Terms-of-Service.md"
       - "pypi.org/Acceptable-Use-Policy.md"
       - "pypi.org/Code-of-Conduct.md"
       - "pypi.org/Terms-of-Use.md"
