@@ -1,7 +1,8 @@
 ---
 source: https://pypi.org/policy/acceptable-use-policy/
+title: Acceptable Use Policy
 ---
-# Acceptable Use Policy
+# PyPI Acceptable Use Policy
 
 **Short version:** _PyPI is a critical resource for the Python ecosystem, which
 hosts a variety of projects from a diverse group of users. That resource is
