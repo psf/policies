@@ -1,7 +1,8 @@
 ---
 source: https://pypi.org/policy/terms-of-use/
+title: Terms of Use
 ---
-# Terms of Use
+# PyPI Terms of Use
 
 Superceded by [PyPI Terms of Service](Terms-of-Service.md): **TBD**
 

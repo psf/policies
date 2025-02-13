@@ -1,7 +1,8 @@
 ---
 source: https://github.com/pypa/.github/blob/main/CODE_OF_CONDUCT.md
+title: Code of Conduct
 ---
-# Code of Conduct
+# PyPI Code of Conduct
 
 Everyone interacting in [Python Packaging Authority]-supported projects is
 expected to follow the [PSF Code of Conduct]. This includes all infrastructure

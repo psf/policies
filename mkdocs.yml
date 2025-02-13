@@ -35,9 +35,10 @@ nav:
   - "pypi.org":
       - "pypi.org/Terms-of-Service.md"
       - "pypi.org/Acceptable-Use-Policy.md"
-      - "pypi.org/Code-of-Conduct.md"
-      - "pypi.org/Terms-of-Use.md"
       - "pypi.org/Privacy-Notice.md"
+      - "pypi.org/Code-of-Conduct.md"
+      - "Superceded":
+          - "pypi.org/Terms-of-Use.md"
   - "python.org":
       - "python.org/CVE-Numbering-Authority.md"
       - "python.org/Contributing.md"
