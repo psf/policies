@@ -748,7 +748,9 @@ This Agreement may only be modified by a written amendment
 signed by an authorized representative of PSF,
 or by the posting by PSF of a revised version in accordance with
 [Changes to These Terms](#changes-to-these-terms).
-These Terms of Service, together with the PyPI Privacy Policy,
+These Terms of Service, together with the
+[PyPI Privacy Notice](Privacy-Notice.md) and
+[Acceptable Use Policy](Acceptable-Use-Policy.md),
 represent the complete and exclusive statement of
 the agreement between you and us.
 This Agreement supersedes any proposal or prior agreement oral or written,
