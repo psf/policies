@@ -191,7 +191,9 @@ but the content of your Account and its security are up to you.
 
 * You are responsible for all content posted and activity
 that occurs under your Account
-(even when content is posted by others who have Accounts under your Account).
+(even when content is posted by others who have Accounts
+under your Organization Account
+or Accounts which can upload to Projects you own).
 * You are responsible for maintaining the security of your Account and password.
 The PSF cannot and will not be liable for any loss or damage
 from your failure to comply with this security obligation.
