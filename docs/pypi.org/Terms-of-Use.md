@@ -4,7 +4,9 @@ title: Terms of Use
 ---
 # PyPI Terms of Use
 
-Superceded by [PyPI Terms of Service](Terms-of-Service.md): **TBD**
+!!! note
+
+    Superseded by [PyPI Terms of Service](Terms-of-Service.md): **TBD**
 
 By registering to upload materials to PyPI, I agree and affirmatively
 acknowledge the following:
