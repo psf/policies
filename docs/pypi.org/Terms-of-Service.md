@@ -253,6 +253,23 @@ regardless of the form of that Content.
 We are not responsible for
 any public display or misuse of your User-Generated Content.
 
+By uploading Your Content to PyPI, you agree and affirmatively acknowledge the
+following:
+
+* Your Content uploaded to PyPI is provided on a non-confidential basis,
+    and is not a trade secret.
+* You do not know of any applicable unlicensed patent or trademark rights that
+    would be infringed by Your uploaded Content.
+* You represent and warrant that You have complied with all government
+    regulations concerning the transfer or export of any Content You upload to
+    PyPI. In particular, if You are subject to United States law, You represent
+    and warrant that You have obtained any required governmental authorization
+    for the export of the Content You upload. You further affirm that any
+    Content You provide is not intended for use by a government end-user
+    engaged in the manufacture or distribution of items or services controlled
+    on the Wassenaar Munitions List as defined in part 772 of the United States
+    Export Administration Regulations, or by any other embargoed user.
+
 #### 2. PSF May Remove Content
 
 We have the right to refuse or remove any User-Generated Content that,
