@@ -34,7 +34,7 @@ in a short non-binding summary followed by the full legal terms.
 
 ## The PyPI Terms of Service
 
-Effective date: **TBD**
+Effective date: February 24, 2025
 
 ### Definitions
 

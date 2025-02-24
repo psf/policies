@@ -6,7 +6,8 @@ title: Terms of Use
 
 !!! note
 
-    Superseded by [PyPI Terms of Service](Terms-of-Service.md): **TBD**
+    Superseded by [PyPI Terms of Service](Terms-of-Service.md): February 24,
+    2024
 
 By registering to upload materials to PyPI, I agree and affirmatively
 acknowledge the following:
