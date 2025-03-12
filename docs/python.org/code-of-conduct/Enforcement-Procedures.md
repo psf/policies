@@ -20,7 +20,7 @@ When the work group receives a report of a possible Code of Conduct violation, i
 
 ## Acknowledge the report
 
-Reporters should receive an emailed acknowledgment of the receipt of their report within 24 hours.
+Reporters should receive an emailed acknowledgment of the receipt of their report within one week.
 
 ## Conflict of interest policy
 
@@ -118,7 +118,8 @@ If the reported person provides additional context, the Python Software Foundati
 
 A person who makes a report should receive a follow-up email stating what action was taken in response to the report. If the work group decided no response was needed, they should provide an email explaining why it was not a Code of Conduct violation. Reports that are not made in good faith (such as "reverse sexism" or "reverse racism") may receive no response.
 
-The follow-up email should be sent no later than one week after the receipt of the report. If deliberation or follow-up with the reported person takes longer than one week, the work group should send a status email to the reporter.
+The follow-up email should be sent within a week after the CoC WG meeting where this was discussed, and following acknowledgment of the report (currently the CoC WG meets twice a month).
+If deliberation or follow-up with the reported person takes longer than such period, the work group should send a status email to the reporter within a week after the meeting when this report was discussed.
 
 ## Documentation and Privacy Policies
 
