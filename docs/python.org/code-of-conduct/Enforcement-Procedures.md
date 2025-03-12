@@ -10,9 +10,9 @@ When the work group receives a report of a possible Code of Conduct violation, i
  1. Evaluate conflicts of interest.
  2. Call a meeting of work group members without a conflict of interest.
  3. Evaluate the reported incident.
- 4. Propose a behavioral modification plan.
- 5. Propose consequences for the reported behavior.
- 6. Vote on behavioral modification plan and consequences for the reported person.
+ 4. If warranted, propose a behavioral modification plan.
+ 5. If warranted, propose consequences for the reported behavior.
+ 6. Vote on any behavioral modification plan and consequences for the reported person.
  7. Contact online community administrators/moderators to approve the behavioral modification plan and consequences.
  8. Follow up with the reported person.
  9. Decide further responses.
@@ -61,7 +61,7 @@ Reports which involve higher risk or higher impact may face more severe conseque
 
 ## Propose a behavioral modification plan
 
-The work group will determine a concrete behavioral modification plan that ensures the inappropriate behavior is not repeated.  The work group will also discuss what actions may need to be taken if the reported person does not agree to the behavioral modification plan.
+Where applicable, the work group will determine a concrete behavioral modification plan that ensures the inappropriate behavior is not repeated.  The work group will also discuss what actions may need to be taken if the reported person does not agree to the behavioral modification plan.
 
 What follows are examples of possible behavioral modification plans for incidents that occur in online spaces under the scope of this Code of Conduct. This behavioral modification list is not inclusive, and the Python Software Foundation Code of Conduct work group reserves the right to take any action it deems necessary.
 
@@ -76,7 +76,7 @@ What follows are examples of possible behavioral modification plans for incident
 
 ## Propose consequences
 
-What follows are examples of possible consequences to an incident report. This consequences list is not inclusive, and the Python Software Foundation Code of Conduct work group reserves the right to take any action it deems necessary.
+What follows are examples of possible consequences of an incident report. This consequences list is not inclusive, and the Python Software Foundation Code of Conduct work group reserves the right to take any action it deems necessary, where applicable.
 
 Possible private responses to an incident include:
 
@@ -89,7 +89,7 @@ Possible private responses to an incident include:
 
 ## Work group vote
 
-Some work group members may have a conflict of interest and may be excluded from discussions of a particular incident report. Excluding those members, decisions on the behavioral modification plans and consequences will be determined by a two-thirds majority vote of the Python Software Foundation Code of Conduct work group.
+Some work group members may have a conflict of interest and may be excluded from discussions of a particular incident report. Excluding those members, any decisions on the behavioral modification plans and consequences will be determined by a two-thirds majority vote of the Python Software Foundation Code of Conduct work group.
 
 ## Administrators/moderators approval
 
