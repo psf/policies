@@ -250,6 +250,7 @@ When discussing a change to the Python community Code of Conduct or enforcement 
 * Mojdeh Rastgoo
 * Jeff Triplett
 * Drew Winstel
+* Koti Vellanki
 
 ## Advisers
 
