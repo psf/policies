@@ -251,6 +251,7 @@ When discussing a change to the Python community Code of Conduct or enforcement 
 * Jeff Triplett
 * Drew Winstel
 * Koti Vellanki
+* Monica Oyugi
 
 ## Advisers
 
