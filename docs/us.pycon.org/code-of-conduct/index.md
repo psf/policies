@@ -116,16 +116,23 @@ The PyCon US Code of Conduct work group will receive and evaluate incident repor
 
 ## CONTACT INFORMATION
 
-If you believe that someone is violating the code of conduct, or have any other concerns, please contact a member of the event staff immediately. They can be reached by emailing <pycon-us-report@python.org> which is monitored by Deb Nicholson, Łukasz Langa, Olivia Sauls and Ee Durbin.
+If you believe that someone is violating the code of conduct, or have any other concerns, please contact a member of the event staff immediately. They can be reached by emailing <pycon-us-report@python.org> which is monitored by:
+
+-   Deb Nicholson
+-   Marie Nordin
+-   Molly de Blanc
 
 In case of a conflict of interest, you can individually contact:
 
-- Ee Durbin
-    - Director of Infrastructure
-    - <ee@python.org>
-- Olivia Sauls
-    - Program Director
-    - <olivia@python.org>
+-   Deb Nicholson
+    -   Python Software Foundation - Executive Director
+    -   <deb@python.org>
+-   Marie Nordin
+    -   Python Software Foundation - Community Communications Manager
+    -   <marie@python.org>
+-   Molly de Blanc
+    -   Python Software Foundation - PyCon US 2025 Code of Conduct Lead
+    -   <molly.deblanc@pyfound.org>
 
 Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist any attendee to feel safe for the duration of the conference. We value your attendance.
 
