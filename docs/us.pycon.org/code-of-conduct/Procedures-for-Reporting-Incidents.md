@@ -12,16 +12,19 @@ The best way to contact the PyCon US Code of Conduct event staff is by email at 
 
 -   Deb Nicholson
 -   Marie Nordin
--   Łukasz Langa
+-   Molly de Blanc
 
 In the event of a conflict of interest, you may directly contact any of the lead incident responders:
 
+-   Deb Nicholson
+    -   Python Software Foundation - Executive Director
+    -   <deb@python.org>
 -   Marie Nordin
     -   Python Software Foundation - Community Communications Manager
     -   <marie@python.org>
--   Łukasz Langa
-    -   Python Software Foundation - CPython Developer in Residence
-    -   <lukasz@python.org>
+-   Molly de Blanc
+    -   Python Software Foundation - PyCon US 2025 Code of Conduct Lead
+    -   <molly.deblanc@pyfound.org>
 
 REPORT DATA
 -----------
