@@ -37,6 +37,7 @@ nav:
       - "pypi.org/Acceptable-Use-Policy.md"
       - "pypi.org/Privacy-Notice.md"
       - "pypi.org/Code-of-Conduct.md"
+      - "pypi.org/Name-Retention-Policy.md"
       - "Superseded":
           - "pypi.org/Terms-of-Use.md"
   - "python.org":
