@@ -25,6 +25,7 @@ An effective CoC should have the following:
 - The CoC should include a description of the procedure for handling the reports and what kinds of incident response can be expected.
 
 In addition to the previously mentioned points, we recommend including:
+
 - Precise instructions on how to report and who to report to if there is a conflict of interest (for example, if a report is about a member of the CoC team or conference staff, the community should know where to make these kinds of reports)
 - If possible, include at least two direct reporting options of different genders for sensitive reports
 - Include emergency numbers (e.g. police, fire, building security, etc.)
