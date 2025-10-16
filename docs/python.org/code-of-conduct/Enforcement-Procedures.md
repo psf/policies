@@ -239,7 +239,6 @@ When discussing a change to the Python community Code of Conduct or enforcement 
 ## Current list of voting members
 
 * Tania Allard
-* Brett Cannon
 * Rami Chowdhury
 * Jessica Greene
 * Cheuk Ting Ho
