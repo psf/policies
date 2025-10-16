@@ -240,7 +240,6 @@ When discussing a change to the Python community Code of Conduct or enforcement 
 
 * Tania Allard
 * KwonHan Bae
-* Brett Cannon
 * Rami Chowdhury
 * Jessica Greene
 * Cheuk Ting Ho
