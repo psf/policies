@@ -149,6 +149,9 @@ This Code of Conduct is licensed under the [Creative Commons Attribution-ShareAl
 
 [![Creative Commons License](https://licensebuttons.net/l/by-sa/3.0/88x31.png)](http://creativecommons.org/licenses/by-sa/3.0/)
 
+## Transparency Reports
+[2024 Transparency Report](link needed)
+
 ## Attributions
 
 This Code of Conduct was forked from the example policy from the [Geek Feminism wiki, created by the Ada Initiative and other volunteers](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), which is under a [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/).
