@@ -83,7 +83,6 @@ the individual person, company, or organization that has visited
 or is using the Website or Service;
 that accesses or uses any part of the Account;
 or that directs the use of the Account in the performance of its functions.
-A User must be at least 13 years of age.
 * The "Website" refers to
 the PyPI website located at pypi.org,
 and all content, services, and products provided by PSF
@@ -100,7 +99,6 @@ the more specific terms apply to the relevant page or service.
 **Short version**:
 *Personal Accounts and Organizations have different administrative controls;
 a human must create your Account;
-you must be 13 or over;
 you must provide a valid email address;
 and you may not have more than one free Account.
 You alone are responsible for your Account
@@ -160,14 +158,6 @@ the machine's actions.
 You may maintain no more than
 one free machine account
 in addition to your free Personal Account.
-* You must be age 13 or older.
-PSF does not target our Service to children under 13,
-and we do not permit any Users under 13 on our Service.
-If we learn of any User under the age of 13,
-we will terminate that User’s Account immediately.
-If you are a resident of a country outside the United States,
-your country’s minimum age may be older;
-in such a case, you are responsible for complying with your country’s laws.
 * Your login may only be used by one person
 — i.e., a single login may not be shared by multiple people.
 A paid Organization may only provide access to
