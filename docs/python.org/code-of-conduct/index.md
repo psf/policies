@@ -150,7 +150,7 @@ This Code of Conduct is licensed under the [Creative Commons Attribution-ShareAl
 [![Creative Commons License](https://licensebuttons.net/l/by-sa/3.0/88x31.png)](http://creativecommons.org/licenses/by-sa/3.0/)
 
 ## Transparency Reports
-[2024 Transparency Report](link needed)
+[2024 Transparency Report](reports/PSF-Transparency-Report-2024.pdf)
 
 ## Attributions
 
