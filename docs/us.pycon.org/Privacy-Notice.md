@@ -30,6 +30,8 @@ PSF may collect the following information from PyCon US participants:
 -   Information that you provide for the purposes of attending meetings, events, webinars, and other programs
 -   Any other information relating to you (or other individuals) which you may provide to us
 
+We use analytics.python.org to aggregate traffic analytics. No personal information is collected. We self-host [Plausible Community Edition](https://plausible.io/docs/self-hosting) to collect some anonymous usage data for statistical purposes. The goal is to track overall trends in our website traffic, it is not to track individual visitors. All the data is in aggregate only. No personal data is collected. Data collected includes referral sources, top pages, visit duration, information from the devices (device type, operating system, country and browser) used during the visit and more.
+
 ## 2. USE OF THIRD PARTY SERVICES
 
 The PSF uses some third party services to assist with producing PyCon US and operating online services supporting PyCon US. Specifically, we use:

@@ -23,6 +23,9 @@ PSF may collect the following information from users of PyPI:
 -   Company, firm, organization, agency, or other entity information
 -   Billing and payment information
 
+
+We use analytics.python.org to aggregate traffic analytics. No personal information is collected. We self-host [Plausible Community Edition](https://plausible.io/docs/self-hosting) to collect some anonymous usage data for statistical purposes. The goal is to track overall trends in our website traffic, it is not to track individual visitors. All the data is in aggregate only. No personal data is collected. Data collected includes referral sources, top pages, visit duration, information from the devices (device type, operating system, country and browser) used during the visit and more.
+
 ## 2. USE OF THIRD PARTY SERVICES
 
 The PSF uses some third party services to assist with operating online services supporting PyPI. Specifically, we use:
@@ -36,8 +39,6 @@ The PSF uses some third party services to assist with operating online services 
 -   Datadog to aggregate metrics and application performance data. Some personal information may be stored on their servers. Their use of this information is subject to the [Data Processing Addendum](https://www.datadoghq.com/legal/data-processing-addendum/) between Datadog and PSF and the PSF and Datadog [Privacy Policy](https://www.datadoghq.com/legal/privacy/).
 
 -   Stripe to process payments. Your billing information is stored on their servers and we process your payments using their services. Their use of this information is subject to the [Data Processing Agreement](https://stripe.com/legal/dpa) between Stripe and PSF and the Stripe Privacy Policy (https://stripe.com/privacy).
-
--   Google Analytics to aggregate traffic analytics. Some personal information may be transited to their servers. Their use of this information is subject to the [Google Ads Data Processing Terms](https://privacy.google.com/businesses/processorterms/) between Google and PSF and the Google [Privacy Policy](https://policies.google.com/privacy).
 
 -   Google Cloud to operate our [linehaul](https://github.com/pypi/linehaul-cloud-function) service, which provides our [BigQuery public dataset](https://docs.pypi.org/api/bigquery/). No personal information is collected. Request time, Request URL, TLS protocol and cipher, HTTP User-Agent, and approximate country of origin are sent to their servers. User-Agents are stored in aggregate form only. Their use of this information is subject to the [Cloud Data Processing Addendum](https://cloud.google.com/terms/data-processing-addendum) between Google and the PSF and the [Google Cloud Privacy Notice](https://cloud.google.com/terms/cloud-privacy-notice).
 
