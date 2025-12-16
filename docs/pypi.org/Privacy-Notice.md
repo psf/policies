@@ -19,6 +19,7 @@ PSF may collect the following information from users of PyPI:
 -   Email addresses
 -   Display names
 -   IP addresses
+-   HTTP User-Agent
 -   Company, firm, organization, agency, or other entity information
 -   Billing and payment information
 
@@ -34,9 +35,11 @@ The PSF uses some third party services to assist with operating online services 
 
 -   Datadog to aggregate metrics and application performance data. Some personal information may be stored on their servers. Their use of this information is subject to the [Data Processing Addendum](https://www.datadoghq.com/legal/data-processing-addendum/) between Datadog and PSF and the PSF and Datadog [Privacy Policy](https://www.datadoghq.com/legal/privacy/).
 
--   Stripe to process payments. Your billing information is stored on their servers and we process your payments using their services. Their use of this information is subject to the [Data Processing AGreement](https://stripe.com/legal/dpa) between Stripe and PSF and the Stripe Privacy Policy (https://stripe.com/privacy).
+-   Stripe to process payments. Your billing information is stored on their servers and we process your payments using their services. Their use of this information is subject to the [Data Processing Agreement](https://stripe.com/legal/dpa) between Stripe and PSF and the Stripe Privacy Policy (https://stripe.com/privacy).
 
 -   Google Analytics to aggregate traffic analytics. Some personal information may be transited to their servers. Their use of this information is subject to the [Google Ads Data Processing Terms](https://privacy.google.com/businesses/processorterms/) between Google and PSF and the Google [Privacy Policy](https://policies.google.com/privacy).
+
+-   Google Cloud to operate our [linehaul](https://github.com/pypi/linehaul-cloud-function) service, which provides our [BigQuery public dataset](https://docs.pypi.org/api/bigquery/). No personal information is collected. Request time, Request URL, TLS protocol and cipher, HTTP User-Agent, and approximate country of origin are sent to their servers. User-Agents are stored in aggregate form only. Their use of this information is subject to the [Cloud Data Processing Addendum](https://cloud.google.com/terms/data-processing-addendum) between Google and the PSF and the [Google Cloud Privacy Notice](https://cloud.google.com/terms/cloud-privacy-notice).
 
 ## 3. HOW DO WE USE THE PERSONAL INFORMATION WE COLLECT
 
@@ -45,3 +48,4 @@ We use the information you provide in the following ways, in addition to the use
 * To provide you with information about activites relevant to you on PyPI 
 * To administer and improve the PyPI website and services
 * To process payments
+* To provide the [PyPI BigQuery Public Dataset](https://docs.pypi.org/api/bigquery/)
