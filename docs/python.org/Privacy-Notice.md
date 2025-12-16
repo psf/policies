@@ -22,6 +22,8 @@ PSF may collect the following information from <python.org> users:
 -   Biography
 -   Any other information relating to you (or other individuals) which you may provide to us
 
+We use analytics.python.org to aggregate traffic analytics. No personal information is collected. We self-host [Plausible Community Edition](https://plausible.io/docs/self-hosting) to collect some anonymous usage data for statistical purposes. The goal is to track overall trends in our website traffic, it is not to track individual visitors. All the data is in aggregate only. No personal data is collected. Data collected includes referral sources, top pages, visit duration, information from the devices (device type, operating system, country and browser) used during the visit and more.
+
 ## 2. USE OF THIRD PARTY SERVICES
 
 The PSF uses some third party services to assist with operating online services supporting <python.org>. Specifically, we use:
@@ -31,10 +33,6 @@ The PSF uses some third party services to assist with operating online services 
 -   Fastly to host the <python.org> website and services. Your information transits their servers. Their use of this information is subject to the [Data Processing Terms](https://www.fastly.com/data-processing) between Fastly and PSF and the Fastly [Privacy Policy](https://www.fastly.com/privacy/).
 
 -   Sentry to aggregate error information from the <python.org> website and services. Some personal information may be stored on their servers. Their use of this information is subject to the [Data Processing Addendum](https://sentry.io/legal/dpa/) between Sentry and PSF and the Sentry [Privacy Policy](https://sentry.io/privacy/).
-
--   Google Analytics to aggregate traffic analytics. Some personal information may be transited to their servers. Their use of this information is subject to the [Google Ads Data Processing Terms](https://privacy.google.com/businesses/processorterms/) between Google and PSF and the Google [Privacy Policy](https://policies.google.com/privacy).
-
--   Plausible to aggregate traffic analytics. Some personal information may be stored on ther servers. Their use of this information is subject to the [Plausible Analytics Data Processing Agreement](https://plausible.io/dpa) between Plausible and PSF asnd the Plausible [Privacy Policy](https://plausible.io/privacy).
 
 ## 3. HOW DO WE USE THE PERSONAL INFORMATION WE COLLECT
 
