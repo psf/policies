@@ -243,22 +243,12 @@ When discussing a change to the Python community Code of Conduct or enforcement 
 * Jessica Greene
 * Cheuk Ting Ho
 * Jeremy Hylton
-* Tereza Iofciu
 * Deb Nicholson
 * Mojdeh Rastgoo
 * Jeff Triplett
 * Drew Winstel
 * Koti Vellanki
 * Monica Oyugi
-
-## Advisers
-
-Advisers to the PSF Code of Conduct work group have access to the work group mailing list, but are not voting members.
-
-* Anwesha Das
-* Maricela Sanchez Miranda
-* Naomi Ceder
-* Łukasz Langa
 
 # Attribution
 
