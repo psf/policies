@@ -26,9 +26,9 @@ We use analytics.python.org to aggregate traffic analytics. No personal informat
 
 ## 2. USE OF THIRD PARTY SERVICES
 
-The PSF uses some third party services to assist with operating online services supporting <python.org>. Specifically, we use:
+The PSF uses some third party services to assist with operating online services supporting [python.org](https://www.python.org). Specifically, we use:
 
--   Amazon Web Services (AWS) to host the PyCon US website. We store your registration information on AWS servers. Their use of this information is subject to the [Data Processing Addendum](https://aws.amazon.com/blogs/security/aws-gdpr-data-processing-addendum/) between AWS and PSF and the AWS Privacy Notice (https://aws.amazon.com/privacy/).]
+-   Amazon Web Services (AWS) to host the PyCon US website. We store your registration information on AWS servers. Their use of this information is subject to the [Data Processing Addendum](https://aws.amazon.com/blogs/security/aws-gdpr-data-processing-addendum/) between AWS and PSF and the AWS Privacy Notice (https://aws.amazon.com/privacy/).
 
 -   Fastly to host the <python.org> website and services. Your information transits their servers. Their use of this information is subject to the [Data Processing Terms](https://www.fastly.com/data-processing) between Fastly and PSF and the Fastly [Privacy Policy](https://www.fastly.com/privacy/).
 
@@ -42,6 +42,6 @@ We use the information you provide in the following ways, in addition to the use
 -   To enroll you for Python Software Foundation related mailings (opt-in only)
 -   To provide you with information about Python, the Python Software Foundation, and events related to the Python Software Foundation
 -   To communicate with you and to respond to your questions, inquiries, or concerns
--   To administer and improve the PSF and <python.org>, including the websites and other services
+-   To administer and improve the PSF and [python.org](https://www.python.org), including the websites and other services
 -   To prevent and detect fraud
 -   To protect and enforce our legal rights
