@@ -238,27 +238,7 @@ When discussing a change to the Python community Code of Conduct or enforcement 
 
 ## Current list of voting members
 
-* Tania Allard
-* Rami Chowdhury
-* Jessica Greene
-* Cheuk Ting Ho
-* Jeremy Hylton
-* Tereza Iofciu
-* Deb Nicholson
-* Mojdeh Rastgoo
-* Jeff Triplett
-* Drew Winstel
-* Koti Vellanki
-* Monica Oyugi
-
-## Advisers
-
-Advisers to the PSF Code of Conduct work group have access to the work group mailing list, but are not voting members.
-
-* Anwesha Das
-* Maricela Sanchez Miranda
-* Naomi Ceder
-* Łukasz Langa
+The list of members can be found [here](https://wiki.python.org/psf/ConductWG/Charter#List_of_Participants.2FWho_we_are). 
 
 # Attribution
 
