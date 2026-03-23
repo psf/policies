@@ -153,7 +153,7 @@ While we are not a global company, we may allow your personal information to be 
 third-party service providers based both within the United States and in other countries.
 This may entail a transfer of your personal information from a location within the European Economic Area
 to outside the European Economic Area, or from outside the European Economic Area
-to a location within the Economic European Area.
+to a location within the European Economic Area.
 
 When we provide your personal information overseas,
 we do so in connection with providing information or services or as required or authorized under law.
@@ -163,7 +163,7 @@ as your country of residence or employment,
 or may not be subject to any privacy obligations.
 Overseas entities may be required or compelled to disclose your personal information to a third party,
 such as an overseas authority.
-Where we transfer information outside of the European Economic Areas,
+Where we transfer information outside of the European Economic Area,
 we will implement appropriate measures to ensure that your personal information
 remains protected and secure in accordance with applicable data protection laws.
 For example, we will implement EU standard contractual clauses
@@ -233,7 +233,7 @@ Your continued use of the product or service after the effective date of such ch
 constitutes your acceptance of such changes.
 To make your review more convenient, we will post an effective date at the top of the page.
 
-## 11. CONTACTING PSF WITH QUESTIONS, CONCERNS, OR COMPLAINTS
+## 13. CONTACTING PSF WITH QUESTIONS, CONCERNS, OR COMPLAINTS
 
 If you have any questions, concerns, or complaints about this Privacy Policy,
 please contact legal@python.org.
