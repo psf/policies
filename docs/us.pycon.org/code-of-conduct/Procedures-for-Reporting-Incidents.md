@@ -23,7 +23,7 @@ In the event of a conflict of interest, you may directly contact any of the lead
     -   Python Software Foundation - Community Communications Manager
     -   <marie@python.org>
 -   Molly de Blanc
-    -   Python Software Foundation - PyCon US 2025 Code of Conduct Lead
+    -   Python Software Foundation - PyCon US 2026 Code of Conduct Lead
     -   <molly.deblanc@pyfound.org>
 
 REPORT DATA

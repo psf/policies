@@ -131,7 +131,7 @@ In case of a conflict of interest, you can individually contact:
     -   Python Software Foundation - Community Communications Manager
     -   <marie@python.org>
 -   Molly de Blanc
-    -   Python Software Foundation - PyCon US 2025 Code of Conduct Lead
+    -   Python Software Foundation - PyCon US 2026 Code of Conduct Lead
     -   <molly.deblanc@pyfound.org>
 
 Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist any attendee to feel safe for the duration of the conference. We value your attendance.
