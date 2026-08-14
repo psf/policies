@@ -52,6 +52,8 @@ The PSF uses some third party services to assist with operating online services 
 
 -   GitHub, GitLab, Google, and ActiveState as OpenID Connect identity providers for [Trusted Publishing](https://docs.pypi.org/trusted-publishers/). When you configure a trusted publisher and publish from these providers, PyPI verifies identity tokens they issue, which contain repository, workflow, and account identifiers. Their use of information is subject to their respective privacy policies: [GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement), [GitLab](https://about.gitlab.com/privacy/), [Google](https://policies.google.com/privacy), and [ActiveState](https://www.activestate.com/company/privacy-policy/).
 
+-   GitHub and GitLab for optional account linking. If you choose to connect an external account to your PyPI account, we authenticate with the provider via OAuth and receive your account identifier, username, and email address from that provider. Their use of this information is subject to the [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement) and the [GitLab Privacy Statement](https://about.gitlab.com/privacy/), respectively.
+
 -   EthicalAds to serve privacy-focused, text-only advertising on pypi.org. Your IP address and the context of the page are processed at serve time to select an ad; no cross-site tracking is performed and no personal data is retained for targeting. Their use of this information is subject to the [EthicalAds Privacy Policy](https://www.ethicalads.io/privacy-policy/).
 
 ## 3. HOW DO WE USE THE PERSONAL INFORMATION WE COLLECT
