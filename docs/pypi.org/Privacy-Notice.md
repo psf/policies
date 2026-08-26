@@ -46,7 +46,7 @@ The PSF uses some third party services to assist with operating online services 
 
 -   Help Scout to handle support requests. Some personal information may be stored on their servers. Their use of this information is subject to the [Data Processing Agreement](https://www.helpscout.com/company/legal/dpa/) between Help Scout and PSF and the Help Scout [Privacy Policy](https://www.helpscout.com/company/legal/privacy/).
 
--   Google reCAPTCHA and hCaptcha to protect certain forms from automated abuse. Some personal information may be processed on their servers. Their use of this information is subject to the [Google Privacy Policy](https://policies.google.com/privacy) and the [hCaptcha Privacy Policy](https://www.hcaptcha.com/privacy), respectively.
+-   hCaptcha to protect certain forms from automated abuse. Some personal information may be processed on their servers. Their use of this information is subject to the [hCaptcha Privacy Policy](https://www.hcaptcha.com/privacy).
 
 -   Have I Been Pwned to check whether a password appears in known data breaches. No personal information is sent to their servers. Their handling of these requests is described in the [Have I Been Pwned Privacy Policy](https://haveibeenpwned.com/Privacy).
 
