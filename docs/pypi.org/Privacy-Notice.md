@@ -54,6 +54,8 @@ The PSF uses some third party services to assist with operating online services 
 
 -   EthicalAds to serve advertising on pypi.org. Some personal information may be processed on their servers. Their use of this information is subject to the [EthicalAds Privacy Policy](https://www.ethicalads.io/privacy-policy/).
 
+-   UserCheck to verify email addresses and prevent fraudulent activity. Email addresses may be processed on their servers. Their use of this information is subject to the [UserCheck Privacy Policy](https://www.usercheck.com/legal/privacy).
+
 ## 3. HOW DO WE USE THE PERSONAL INFORMATION WE COLLECT
 
 We use the information you provide in the following ways, in addition to the uses described in the PSF Privacy Notice:
