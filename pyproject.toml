@@ -1,0 +1,39 @@
+[project]
+name = "psf-policies"
+version = "0"
+requires-python = ">=3.14"
+classifiers = [
+  "Programming Language :: Python :: 3 :: Only",
+  "Programming Language :: Python :: 3.14",
+  "Programming Language :: Python :: 3.15",
+]
+dependencies = [
+  "mkdocs",
+  "mkdocs-git-revision-date-localized-plugin",
+  "mkdocs-material",
+]
+
+[dependency-groups]
+dev = [
+  "pyproject-fmt",
+  "ruff",
+  "ty",
+]
+
+[tool.uv]
+package = false
+
+[tool.ruff]
+include = [ "*.py" ]
+lint.select = [ "ALL" ]
+lint.ignore = [
+  "ARG001",
+  "COM812",
+  "CPY001",
+  "D1",
+  "D203",
+  "D213",
+  "EM102",
+  "INP001",
+  "TRY003",
+]

@@ -1,4 +1,6 @@
-FROM python:3.14.8-slim-bookworm as docs
+FROM ghcr.io/astral-sh/uv:0.13.1@sha256:4a1f3666816dafadd20ceb71eac9a7d56d7ef30279f7d64048519ab901ada336 AS uv
+
+FROM python:3.14.8-slim-bookworm AS docs
 
 RUN set -x \
     && apt-get update \
@@ -8,21 +10,15 @@ RUN set -x \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
 
-RUN set -x \
-    && python3 -m venv /opt/venv
+COPY --from=uv /uv /bin/uv
 
+ENV UV_PROJECT_ENVIRONMENT=/opt/venv
 ENV PATH="/opt/venv/bin:${PATH}"
 
-ARG PIP_DISABLE_PIP_VERSION_CHECK=1
-ARG PIP_NO_CACHE_DIR=1
-
-RUN pip install --upgrade pip setuptools
-COPY requirements.txt /tmp/requirements.txt
-RUN set -x \
-    && pip install -r /tmp/requirements.txt \
-    && pip check \
-    && find /opt/venv -name '*.pyc' -delete
-
+RUN uv venv /opt/venv
 WORKDIR /opt/venv/src/
+COPY pyproject.toml uv.lock .python-version /opt/venv/src/
+RUN uv sync --locked --no-dev --no-cache
+
 COPY mkdocs.yml /opt/venv/src/mkdocs.yml
 COPY docs /opt/venv/src/docs

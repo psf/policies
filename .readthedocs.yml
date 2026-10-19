@@ -9,5 +9,5 @@ build:
   tools:
     python: "3.14"
   commands:
-    - python -m pip install -r requirements.txt
-    - python -m mkdocs build --clean --site-dir $READTHEDOCS_OUTPUT/html --config-file mkdocs.yml
+    - python -m pip install uv
+    - python -m uv run --locked --no-dev mkdocs build --clean --site-dir $READTHEDOCS_OUTPUT/html --config-file mkdocs.yml
