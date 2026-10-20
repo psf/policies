@@ -22,3 +22,4 @@ RUN uv sync --locked --no-dev --no-cache
 
 COPY mkdocs.yml /opt/venv/src/mkdocs.yml
 COPY docs /opt/venv/src/docs
+COPY hooks /opt/venv/src/hooks

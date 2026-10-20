@@ -17,6 +17,8 @@ theme:
         name: Switch to light mode
 extra_css:
   - stylesheets/extra.css
+hooks:
+  - hooks/pypi_policies.py
 plugins:
   - git-revision-date-localized:
       type: date

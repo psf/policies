@@ -10,6 +10,7 @@ services:
       - ./mkdocs.yml:/opt/venv/src/mkdocs.yml:z
       - ./docs:/opt/venv/src/docs:z
       - ./overrides:/opt/venv/src/overrides:z
+      - ./hooks:/opt/venv/src/hooks:z
     environment:
         - PREVIEW=True
     ports:
