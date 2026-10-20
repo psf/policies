@@ -5,8 +5,8 @@ the [Python Software Foundation](https://python.org/psf/).
 
 ## Development
 
-You can use `docker compose up` to start development server with live-reloading as you
-edit documents.
+You can use `make serve` to start a development server with live-reloading as you
+edit documents. Run `make` to see the other targets, such as `make check`.
 
 Once it has started, navigate to [http://localhost:10000](http://localhost:10000)
 in your browser! Any edits made will render as you save your work.
