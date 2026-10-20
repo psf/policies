@@ -1,5 +1,9 @@
 ---
 title: Terms of Service
+audience: users
+revision: 2025-02-25
+effective: 2025-03-27
+notify: false
 ---
 # Python Package Index (PyPI) Terms of Service
 

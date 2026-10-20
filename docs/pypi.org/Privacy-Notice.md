@@ -1,5 +1,9 @@
 ---
 title: Privacy Notice
+audience: users
+revision: 2026-10-17
+effective: 2026-10-17
+notify: false
 ---
 # PyPI Privacy Notice
 
