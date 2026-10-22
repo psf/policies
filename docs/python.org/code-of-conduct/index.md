@@ -166,4 +166,4 @@ Language was incorporated from the following Codes of Conduct:
  * [Django Project Code of Conduct](https://www.djangoproject.com/conduct/), licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
  * [LGBTQ in Tech Slack Code of Conduct](https://lgbtq.technology/coc.html), licensed under a [Creative Commons Zero License](https://creativecommons.org/publicdomain/zero/1.0/).
  * [PyCon 2018 Code of Conduct](https://us.pycon.org/2018/about/code-of-conduct/), licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
- * [Rust Code of Conduct](https://www.rust-lang.org/en-US/conduct.html)
+ * [Rust Code of Conduct](https://rust-lang.org/policies/code-of-conduct/)
