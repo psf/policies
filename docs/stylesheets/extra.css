@@ -3,3 +3,9 @@ readthedocs-flyout { display: none; }
 :root, [data-md-color-scheme="psf"], [data-md-color-scheme="slate"] {
   --md-primary-fg-color:        #2b5b84;
 }
+
+/* PyPI Subprocessors table, rendered by hooks/pypi_policies.py */
+.subprocessors td:last-child { white-space: nowrap; }
+.subprocessors th[scope="colgroup"] {
+  background-color: var(--md-default-fg-color--lightest);
+}
