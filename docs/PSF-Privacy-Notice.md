@@ -74,10 +74,36 @@ Please see the section below on cookies for information.
 
 ### COOKIES
 
-As you use the PSF website and services (and the sites of third party providers contracted to provide services),
-those sites may place cookies on your computer.
-The cookies we use are strictly functional cookies and have no marketing purpose.
-For any third party provider, please see that provider’s cookie policy.
+A cookie is a small file that a website stores in your browser.
+As you use PSF websites and services, and the sites of third parties we contract with, those sites may place cookies in your browser.
+We use only cookies that a site needs to work, such as to keep you logged in or to stop fraud and bots.
+
+www.python.org sets no cookies.
+Where we measure traffic, we use our own copy of Plausible Analytics (analytics.python.org), which uses no cookies.
+We do not use cookies for advertising or marketing.
+
+We use Stripe to process donations.
+On our donation form and fundraiser page, Stripe sets three cookies that it uses to detect and prevent fraudulent payments.
+They are necessary to process your donation securely.
+See [Stripe's privacy policy](https://stripe.com/privacy).
+
+These are the cookies set when you donate or subscribe to status updates:
+
+| Cookie | Set by | Used on | Purpose | Lasts |
+|---|---|---|---|---|
+| `PHPSESSID` | PSF | Donation form | Keeps your form session open | Until you close your browser |
+| `__stripe_mid` | [Stripe](https://stripe.com/privacy) | Donation form, fundraiser page | Detects payment fraud | 1 year |
+| `__stripe_sid` | Stripe | Donation form, fundraiser page | Detects payment fraud | 30 minutes |
+| `m` | Stripe | Donation form, fundraiser page | Detects payment fraud | About 13 months |
+| `__cf_bm` | [hCaptcha](https://www.hcaptcha.com/privacy) | Donation form | Blocks bots | Up to 1 day |
+| `__cflb` | hCaptcha | Donation form | Routes you to an hCaptcha server | Up to 1 day |
+| `hmt_id` | hCaptcha | Donation form | Blocks bots | 30 days |
+| `_GRECAPTCHA` | [Google reCAPTCHA](https://policies.google.com/privacy) | status.python.org subscribe form | Blocks bots | About 6 months |
+
+Our fundraiser banner uses your browser's local storage, not a cookie, to remember that you closed it.
+
+You can block or delete cookies in your browser settings.
+If you block the cookies above, the donation and subscribe forms may not work.
 
 ### PRESENTER OR AUTHOR INFORMATION
 
