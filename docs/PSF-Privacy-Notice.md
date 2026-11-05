@@ -78,32 +78,69 @@ A cookie is a small file that a website stores in your browser.
 As you use PSF websites and services, and the sites of third parties we contract with, those sites may place cookies in your browser.
 We use only cookies that a site needs to work, such as to keep you logged in or to stop fraud and bots.
 
-www.python.org sets no cookies.
+www.python.org sets cookies only when you log in or use a form.
 Where we measure traffic, we use our own copy of Plausible Analytics (analytics.python.org), which uses no cookies.
 We do not use cookies for advertising or marketing.
 
-We use Stripe to process donations.
-On our donation form and fundraiser page, Stripe sets three cookies that it uses to detect and prevent fraudulent payments.
-They are necessary to process your donation securely.
+We use Stripe to process donations and memberships.
+On our donation and membership forms and our fundraiser page, Stripe sets three cookies that it uses to detect and prevent fraudulent payments.
+They are necessary to process your payment securely.
 See [Stripe's privacy policy](https://stripe.com/privacy).
 
-These are the cookies set when you donate or visit status.python.org:
+These are the cookies set on PSF sites, grouped by site:
 
-| Cookie | Set by | Used on | Purpose | Lasts |
-|---|---|---|---|---|
-| `PHPSESSID` | PSF | Donation form | Keeps your form session open | Until you close your browser |
-| `__stripe_mid` | [Stripe](https://stripe.com/privacy) | Donation form, fundraiser page | Detects payment fraud | 1 year |
-| `__stripe_sid` | Stripe | Donation form, fundraiser page | Detects payment fraud | 30 minutes |
-| `m` | Stripe | Donation form, fundraiser page | Detects payment fraud | About 13 months |
-| `__cf_bm` | [hCaptcha](https://www.hcaptcha.com/privacy) | Donation form | Blocks bots | Up to 1 day |
-| `__cflb` | hCaptcha | Donation form | Routes you to an hCaptcha server | Up to 1 day |
-| `hmt_id` | hCaptcha | Donation form | Blocks bots | 30 days |
-| `_GRECAPTCHA` | [Google reCAPTCHA](https://policies.google.com/privacy) | status.python.org (any page) | Blocks bots on the subscribe form | About 6 months |
+**psfmember.org (donation and membership forms)**
 
-Our fundraiser banner uses your browser's local storage, not a cookie, to remember that you closed it.
+| Cookie | Set by | Purpose | Lasts |
+|---|---|---|---|
+| `PHPSESSID` | PSF | Keeps your form session open | Until you close your browser |
+| `__stripe_mid` | [Stripe](https://stripe.com/privacy) | Detects payment fraud | 1 year |
+| `__stripe_sid` | Stripe | Detects payment fraud | 30 minutes |
+| `m` | Stripe | Detects payment fraud | About 13 months |
+| `__cf_bm` | [hCaptcha](https://www.hcaptcha.com/privacy) (Cloudflare cookie) | Blocks bots | 30 minutes |
+| `__cflb` | hCaptcha (Cloudflare cookie) | Routes you to an hCaptcha server | 30 minutes |
+| `hmt_id` | hCaptcha | Blocks bots | 30 days |
+
+**donate.python.org (fundraiser page, while a fundraiser is running)**
+
+| Cookie | Set by | Purpose | Lasts |
+|---|---|---|---|
+| `__stripe_mid` | [Stripe](https://stripe.com/privacy) | Detects payment fraud | 1 year |
+| `__stripe_sid` | Stripe | Detects payment fraud | 30 minutes |
+| `m` | Stripe | Detects payment fraud | About 13 months |
+
+**www.python.org (only when you log in or use a form)**
+
+| Cookie | Set by | Purpose | Lasts |
+|---|---|---|---|
+| `csrftoken` | PSF | Protects forms against forgery | 1 year |
+| `sessionid` | PSF | Keeps you logged in | 2 weeks |
+
+**pypi.org**
+
+| Cookie | Set by | Purpose | Lasts |
+|---|---|---|---|
+| `session_id` | PSF | Keeps you logged in and protects forms against forgery | Until you close your browser |
+
+**policies.python.org, packaging.python.org, and devguide.python.org**
+
+| Cookie | Set by | Purpose | Lasts |
+|---|---|---|---|
+| `__cf_bm` | [Read the Docs](https://about.readthedocs.com/privacy-policy/), via Cloudflare | Blocks bots | 30 minutes |
+| `_cfuvid` | Read the Docs, via Cloudflare | Limits request rates | Until you close your browser |
+
+The www.python.org downloads page loads data from devguide.python.org, so it can also set the devguide.python.org cookies.
+
+**status.python.org (any page)**
+
+| Cookie | Set by | Purpose | Lasts |
+|---|---|---|---|
+| `_GRECAPTCHA` | [Google reCAPTCHA](https://policies.google.com/privacy) | Blocks bots on the subscribe form | About 6 months |
+
+Some sites use your browser's local storage, not cookies, to remember settings such as your color theme or a closed banner.
 
 You can block or delete cookies in your browser settings.
-If you block the cookies above, the donation and subscribe forms may not work.
+If you block the cookies above, logging in and the donation, membership, and subscribe forms may not work.
 
 ### PRESENTER OR AUTHOR INFORMATION
 
