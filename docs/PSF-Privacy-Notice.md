@@ -87,7 +87,7 @@ On our donation form and fundraiser page, Stripe sets three cookies that it uses
 They are necessary to process your donation securely.
 See [Stripe's privacy policy](https://stripe.com/privacy).
 
-These are the cookies set when you donate or subscribe to status updates:
+These are the cookies set when you donate or visit status.python.org:
 
 | Cookie | Set by | Used on | Purpose | Lasts |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ These are the cookies set when you donate or subscribe to status updates:
 | `__cf_bm` | [hCaptcha](https://www.hcaptcha.com/privacy) | Donation form | Blocks bots | Up to 1 day |
 | `__cflb` | hCaptcha | Donation form | Routes you to an hCaptcha server | Up to 1 day |
 | `hmt_id` | hCaptcha | Donation form | Blocks bots | 30 days |
-| `_GRECAPTCHA` | [Google reCAPTCHA](https://policies.google.com/privacy) | status.python.org subscribe form | Blocks bots | About 6 months |
+| `_GRECAPTCHA` | [Google reCAPTCHA](https://policies.google.com/privacy) | status.python.org (any page) | Blocks bots on the subscribe form | About 6 months |
 
 Our fundraiser banner uses your browser's local storage, not a cookie, to remember that you closed it.
 
