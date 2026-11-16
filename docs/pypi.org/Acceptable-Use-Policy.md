@@ -1,6 +1,10 @@
 ---
 source: https://pypi.org/policy/acceptable-use-policy/
 title: Acceptable Use Policy
+audience: users
+revision: 2025-02-13
+effective: 2025-02-13
+notify: false
 ---
 # PyPI Acceptable Use Policy
 
